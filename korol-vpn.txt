@@ -1,97 +1,21 @@
-mixed-port: 7890
-allow-lan: false
-mode: rule
-log-level: info
-external-controller: 127.0.0.1:9090
-dns:
-  enable: true
-  ipv6: false
-  default-nameserver: [223.5.5.5, 1.1.1.1]
-  nameserver: [https://1.1.1.1/dns-query, https://8.8.8.8/dns-query]
-  fallback: [tls://1.1.1.1:853, tls://8.8.8.8:853]
-
-proxies:
-  - { name: "🇪🇺 Обход 5", type: vless, server: 95.129.234.113, port: 8443, uuid: 88281d02-b387-4fe3-918e-26ed331e6d08, network: xhttp, tls: true, servername: tansy-wharf.cdn.cachefleet.com, client-fingerprint: chrome, alpn: [h2], xhttp-opts: { path: "/ccxf5snr06b8xxb6", host: "is-tw-relay.cdn.cachefleet.com", mode: auto } }
-  - { name: "🇪🇺 Обход 28", type: vless, server: 95.129.234.113, port: 8443, uuid: 88281d02-b387-4fe3-918e-26ed331e6d08, network: xhttp, tls: true, servername: sorrel-gate.cdn.cachefleet.com, client-fingerprint: firefox, alpn: [h2], xhttp-opts: { path: "/ccxf5snr06b8xxb6", host: "is-tw-relay.cdn.cachefleet.com", mode: auto } }
-  - { name: "🇪🇺 Обход 29", type: vless, server: 95.129.234.108, port: 8443, uuid: b229d38c-35ec-4a0b-9c86-8fceba243d6c, network: xhttp, tls: true, servername: linden-crest.cdn.cachefleet.com, client-fingerprint: firefox, alpn: [h2], xhttp-opts: { path: "/ccxf5snr06b8xxb6", host: "fafeqdhlett2p5la6d.cdn.cachefleet.com", mode: auto } }
-  - { name: "🇪🇺 Обход 55", type: vless, server: 195.206.235.121, port: 443, uuid: 4201786b-d99b-4147-a5f0-20d47acddb81, network: xhttp, tls: true, servername: 38917fx.es1.h1clayd.click, client-fingerprint: firefox, reality-opts: { public-key: "4mgkA2kT_Im0rkGi-fVSUU5CyF5xvMVcjA6MXBSEDAA", short-id: "d5501b156391e01d" }, xhttp-opts: { path: "/", host: "38917fx.es1.h1clayd.click", mode: auto } }
-  - { name: "🇩🇪 Германия 5", type: vless, server: 45.88.12.105, port: 443, uuid: 5bffc6bc-7e5c-4f3c-b276-4d4e900426f5, network: ws, tls: true, servername: va.stream-room.com, client-fingerprint: chrome, alpn: [http/1.1], ws-opts: { path: "/vless-ws" } }
-  - { name: "🇩🇪 Германия 6", type: vless, server: 95.182.121.9, port: 443, uuid: 5bffc6bc-7e5c-4f3c-b276-4d4e900426f5, network: ws, tls: true, servername: va.stream-room.com, client-fingerprint: chrome, alpn: [http/1.1], ws-opts: { path: "/vless-ws" } }
-  - { name: "🇩🇪 Германия 7", type: vless, server: 141.0.187.220, port: 11443, uuid: b84969fc-0d7d-428e-ac67-68feccfa2559, network: tcp, tls: true, flow: xtls-rprx-vision, servername: 141.0.187.4, client-fingerprint: firefox, reality-opts: { public-key: "GPz7dacpjZ5iHT5pbZfYap1vpyt85mNKV7BVW3R92hE", short-id: "26ca0f0ba115925d" } }
-  - { name: "🇩🇪 Германия 8", type: vless, server: sub-edge-08-1g.xrent.cloud, port: 10488, uuid: b84969fc-0d7d-428e-ac67-68feccfa2559, network: xhttp, tls: true, servername: ligastavok.ru, client-fingerprint: chrome, reality-opts: { public-key: "kDEc42JBZxig3BrLD3V1ofs3oJZk15-ANWN-rM0JW10", short-id: "f28145401b4f633a" }, xhttp-opts: { path: "/", mode: auto } }
-  - { name: "🇳🇱 Нидерланды 9", type: vless, server: sub-edge-05-1g.whitenw.net, port: 20001, uuid: b84969fc-0d7d-428e-ac67-68feccfa2559, network: xhttp, tls: true, servername: ligastavok.ru, client-fingerprint: chrome, reality-opts: { public-key: "kDEc42JBZxig3BrLD3V1ofs3oJZk15-ANWN-rM0JW10", short-id: "f28145401b4f633a" }, xhttp-opts: { path: "/", mode: auto } }
-  - { name: "🇳🇱 Нидерланды 10", type: vless, server: 141.0.187.196, port: 11443, uuid: b84969fc-0d7d-428e-ac67-68feccfa2559, network: tcp, tls: true, flow: xtls-rprx-vision, servername: 141.0.187.6, client-fingerprint: firefox, reality-opts: { public-key: "945vNebBQgPKkgABK0nHHRh35q3gVrmaUbShAVBRSWg", short-id: "21bb339df984afbd" } }
-  - { name: "🇳🇱 Нидерланды 6", type: vless, server: 201.58.185.103, port: 443, uuid: 50a87e21-f0e2-4b53-a787-91adfe748f63, network: tcp, tls: true, flow: xtls-rprx-vision, servername: sundaylanzgem.site, client-fingerprint: chrome, reality-opts: { public-key: "-BN9yCN0ECqxOPoJOan1-CIMEYc5e7wdJwaeDxsUM20", short-id: "" } }
-  - { name: "🇫🇷 Франция 12", type: vless, server: sub-edge-18-1g.whitenw.net, port: 10458, uuid: 5bffc6bc-7e5c-4f3c-b276-4d4e900426f5, network: xhttp, tls: true, servername: max.ru, client-fingerprint: randomized, reality-opts: { public-key: "NcusujNOLaj9kiNIAMzg3BKdb3WYXMdkCgfeNHyie1E", short-id: "67ca97db5f330f5f" }, xhttp-opts: { path: "/aFlS06iNEzhdEdIa", mode: auto } }
-  - { name: "🇫🇷 Франция 13", type: vless, server: 141.0.187.228, port: 11443, uuid: b84969fc-0d7d-428e-ac67-68feccfa2559, network: tcp, tls: true, flow: xtls-rprx-vision, servername: 141.0.187.4, client-fingerprint: firefox, reality-opts: { public-key: "GPz7dacpjZ5iHT5pbZfYap1vpyt85mNKV7BVW3R92hE", short-id: "26ca0f0ba115925d" } }
-  - { name: "🇸🇪 Швеция 14", type: vless, server: 141.0.187.216, port: 11443, uuid: b84969fc-0d7d-428e-ac67-68feccfa2559, network: tcp, tls: true, flow: xtls-rprx-vision, servername: 141.0.187.6, client-fingerprint: firefox, reality-opts: { public-key: "945vNebBQgPKkgABK0nHHRh35q3gVrmaUbShAVBRSWg", short-id: "21bb339df984afbd" } }
-  - { name: "🇫🇮 Финляндия 15", type: vless, server: 92.242.165.141, port: 2083, uuid: b84969fc-0d7d-428e-ac67-68feccfa2559, network: ws, tls: true, servername: speedtestmark.com, client-fingerprint: chrome, alpn: [http/1.1], ws-opts: { path: "/vless-ws" } }
-  - { name: "🇪🇺 Европа 16", type: vless, server: 141.0.187.228, port: 2083, uuid: b84969fc-0d7d-428e-ac67-68feccfa2559, network: ws, tls: true, servername: speedtestmark.com, client-fingerprint: chrome, alpn: [http/1.1], ws-opts: { path: "/vless-ws" } }
-  - { name: "🇪🇺 Европа 17", type: vless, server: 141.0.187.216, port: 2083, uuid: b84969fc-0d7d-428e-ac67-68feccfa2559, network: ws, tls: true, servername: speedtestmark.com, client-fingerprint: chrome, alpn: [http/1.1], ws-opts: { path: "/vless-ws" } }
-  - { name: "🇪🇺 Европа 18", type: vless, server: qq.utiltools.site, port: 443, uuid: 4054fdc2-ee80-4419-8a8e-d937df4719e2, network: tcp, tls: true, flow: xtls-rprx-vision, servername: qq.utiltools.site, client-fingerprint: chrome, reality-opts: { public-key: "drY21DHNOr6ezJLA2B10mzTExeJ9-gVBfTBNLwVBtWI", short-id: "" } }
-  - { name: "🇪🇺 Европа 19 (Hy2)", type: hysteria2, server: 141.0.187.220, port: 8443, password: b84969fc-0d7d-428e-ac67-68feccfa2559, sni: speedtestmark.com, alpn: [h3], skip-cert-verify: false }
-  - { name: "🇫🇮 Финляндия 20 (Hy2)", type: hysteria2, server: 92.242.165.141, port: 8443, password: b84969fc-0d7d-428e-ac67-68feccfa2559, sni: speedtestmark.com, alpn: [h3], skip-cert-verify: false }
-  - { name: "🇩🇪 Германия 21 (Hy2)", type: hysteria2, server: 45.88.12.188, port: 443, password: 5bffc6bc-7e5c-4f3c-b276-4d4e900426f5, sni: va.stream-room.com, alpn: [h3], skip-cert-verify: false }
-
-proxy-groups:
-  - name: "🚀 Авто-выбор"
-    type: url-test
-    url: http://www.gstatic.com/generate_204
-    interval: 300
-    tolerance: 50
-    proxies:
-      - "🇪🇺 Обход 5"
-      - "🇪🇺 Обход 28"
-      - "🇪🇺 Обход 29"
-      - "🇪🇺 Обход 55"
-      - "🇩🇪 Германия 5"
-      - "🇩🇪 Германия 6"
-      - "🇩🇪 Германия 7"
-      - "🇩🇪 Германия 8"
-      - "🇳🇱 Нидерланды 9"
-      - "🇳🇱 Нидерланды 10"
-      - "🇳🇱 Нидерланды 6"
-      - "🇫🇷 Франция 12"
-      - "🇫🇷 Франция 13"
-      - "🇸🇪 Швеция 14"
-      - "🇫🇮 Финляндия 15"
-      - "🇪🇺 Европа 16"
-      - "🇪🇺 Европа 17"
-      - "🇪🇺 Европа 18"
-      - "🇪🇺 Европа 19 (Hy2)"
-      - "🇫🇮 Финляндия 20 (Hy2)"
-      - "🇩🇪 Германия 21 (Hy2)"
-
-  - name: "🛠 Выбор сервера"
-    type: select
-    proxies:
-      - "🚀 Авто-выбор"
-      - "🇪🇺 Обход 5"
-      - "🇪🇺 Обход 28"
-      - "🇪🇺 Обход 29"
-      - "🇪🇺 Обход 55"
-      - "🇩🇪 Германия 5"
-      - "🇩🇪 Германия 6"
-      - "🇩🇪 Германия 7"
-      - "🇩🇪 Германия 8"
-      - "🇳🇱 Нидерланды 9"
-      - "🇳🇱 Нидерланды 10"
-      - "🇳🇱 Нидерланды 6"
-      - "🇫🇷 Франция 12"
-      - "🇫🇷 Франция 13"
-      - "🇸🇪 Швеция 14"
-      - "🇫🇮 Финляндия 15"
-      - "🇪🇺 Европа 16"
-      - "🇪🇺 Европа 17"
-      - "🇪🇺 Европа 18"
-      - "🇪🇺 Европа 19 (Hy2)"
-      - "🇫🇮 Финляндия 20 (Hy2)"
-      - "🇩🇪 Германия 21 (Hy2)"
-
-rules:
-  - GEOIP,LAN,DIRECT,no-resolve
-  - GEOIP,RU,DIRECT
-  - DOMAIN-SUFFIX,ru,DIRECT
-  - DOMAIN-SUFFIX,max.ru,DIRECT
-  - DOMAIN-SUFFIX,gosuslugi.ru,DIRECT
-  - MATCH,🛠 Выбор сервера
+vless://88281d02-b387-4fe3-918e-26ed331e6d08@95.129.234.113:8443?encryption=none&security=tls&sni=tansy-wharf.cdn.cachefleet.com&fp=chrome&alpn=h2&type=xhttp&path=%2Fccxf5snr06b8xxb6&host=is-tw-relay.cdn.cachefleet.com&mode=auto#5 🇪🇺Обход ⚡🚀
+vless://88281d02-b387-4fe3-918e-26ed331e6d08@95.129.234.113:8443?encryption=none&security=tls&sni=sorrel-gate.cdn.cachefleet.com&fp=firefox&alpn=h2&type=xhttp&path=%2Fccxf5snr06b8xxb6&host=is-tw-relay.cdn.cachefleet.com&mode=auto#28 🇪🇺Обход ⚡🚀
+vless://b229d38c-35ec-4a0b-9c86-8fceba243d6c@95.129.234.108:8443?encryption=none&security=tls&sni=linden-crest.cdn.cachefleet.com&fp=firefox&alpn=h2&type=xhttp&path=%2Fccxf5snr06b8xxb6&host=fafeqdhlett2p5la6d.cdn.cachefleet.com&mode=auto#29 🇪🇺Обход ⚡🚀
+vless://4201786b-d99b-4147-a5f0-20d47acddb81@195.206.235.121:443?encryption=none&security=reality&sni=38917fx.es1.h1clayd.click&fp=firefox&pbk=4mgkA2kT_Im0rkGi-fVSUU5CyF5xvMVcjA6MXBSEDAA&sid=d5501b156391e01d&type=xhttp&path=%2F&host=38917fx.es1.h1clayd.click&mode=auto#55 🇪🇺Обход ⚡🚀
+vless://5bffc6bc-7e5c-4f3c-b276-4d4e900426f5@45.88.12.105:443?encryption=none&security=tls&sni=va.stream-room.com&fp=chrome&alpn=http%2F1.1&type=ws&path=%2Fvless-ws#5 🇩🇪Германия ⚡🚀
+vless://5bffc6bc-7e5c-4f3c-b276-4d4e900426f5@95.182.121.9:443?encryption=none&security=tls&sni=va.stream-room.com&fp=chrome&alpn=http%2F1.1&type=ws&path=%2Fvless-ws#6 🇩🇪Германия ⚡🚀
+vless://b84969fc-0d7d-428e-ac67-68feccfa2559@141.0.187.220:11443?encryption=none&security=reality&sni=141.0.187.4&fp=firefox&pbk=GPz7dacpjZ5iHT5pbZfYap1vpyt85mNKV7BVW3R92hE&sid=26ca0f0ba115925d&flow=xtls-rprx-vision&type=tcp#7 🇩🇪Германия ⚡🚀
+vless://b84969fc-0d7d-428e-ac67-68feccfa2559@sub-edge-08-1g.xrent.cloud:10488?encryption=none&security=reality&sni=ligastavok.ru&fp=chrome&pbk=kDEc42JBZxig3BrLD3V1ofs3oJZk15-ANWN-rM0JW10&sid=f28145401b4f633a&spx=%2F&type=xhttp&mode=auto&path=%2F#8 🇩🇪Германия ⚡🚀
+vless://b84969fc-0d7d-428e-ac67-68feccfa2559@sub-edge-05-1g.whitenw.net:20001?encryption=none&security=reality&sni=ligastavok.ru&fp=chrome&pbk=kDEc42JBZxig3BrLD3V1ofs3oJZk15-ANWN-rM0JW10&sid=f28145401b4f633a&spx=%2F&type=xhttp&mode=auto&path=%2F#9 🇳🇱Нидерланды ⚡🚀
+vless://b84969fc-0d7d-428e-ac67-68feccfa2559@141.0.187.196:11443?encryption=none&security=reality&sni=141.0.187.6&fp=firefox&pbk=945vNebBQgPKkgABK0nHHRh35q3gVrmaUbShAVBRSWg&sid=21bb339df984afbd&flow=xtls-rprx-vision&type=tcp#10 🇳🇱Нидерланды ⚡🚀
+vless://50a87e21-f0e2-4b53-a787-91adfe748f63@201.58.185.103:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=sundaylanzgem.site&fp=chrome&pbk=-BN9yCN0ECqxOPoJOan1-CIMEYc5e7wdJwaeDxsUM20&type=tcp#6 🇳🇱Нидерланды ⚡🚀
+vless://5bffc6bc-7e5c-4f3c-b276-4d4e900426f5@sub-edge-18-1g.whitenw.net:10458?encryption=none&security=reality&sni=max.ru&fp=randomized&pbk=NcusujNOLaj9kiNIAMzg3BKdb3WYXMdkCgfeNHyie1E&sid=67ca97db5f330f5f&type=xhttp&mode=auto&path=%2FaFlS06iNEzhdEdIa#12 🇫🇷Франция ⚡🚀
+vless://b84969fc-0d7d-428e-ac67-68feccfa2559@141.0.187.228:11443?encryption=none&security=reality&sni=141.0.187.4&fp=firefox&pbk=GPz7dacpjZ5iHT5pbZfYap1vpyt85mNKV7BVW3R92hE&sid=26ca0f0ba115925d&flow=xtls-rprx-vision&type=tcp#13 🇫🇷Франция ⚡🚀
+vless://b84969fc-0d7d-428e-ac67-68feccfa2559@141.0.187.216:11443?encryption=none&security=reality&sni=141.0.187.6&fp=firefox&pbk=945vNebBQgPKkgABK0nHHRh35q3gVrmaUbShAVBRSWg&sid=21bb339df984afbd&flow=xtls-rprx-vision&type=tcp#14 🇸🇪Швеция ⚡🚀
+vless://b84969fc-0d7d-428e-ac67-68feccfa2559@92.242.165.141:2083?encryption=none&security=tls&sni=speedtestmark.com&fp=chrome&alpn=http%2F1.1&type=ws&path=%2Fvless-ws#15 🇫🇮Финляндия ⚡🚀
+vless://b84969fc-0d7d-428e-ac67-68feccfa2559@141.0.187.228:2083?encryption=none&security=tls&sni=speedtestmark.com&fp=chrome&alpn=http%2F1.1&type=ws&path=%2Fvless-ws#16 🇪🇺Европа ⚡🚀
+vless://b84969fc-0d7d-428e-ac67-68feccfa2559@141.0.187.216:2083?encryption=none&security=tls&sni=speedtestmark.com&fp=chrome&alpn=http%2F1.1&type=ws&path=%2Fvless-ws#17 🇪🇺Европа ⚡🚀
+vless://4054fdc2-ee80-4419-8a8e-d937df4719e2@qq.utiltools.site:443?flow=xtls-rprx-vision&encryption=none&security=reality&sni=qq.utiltools.site&fp=chrome&pbk=drY21DHNOr6ezJLA2B10mzTExeJ9-gVBfTBNLwVBtWI&type=tcp&headerType=none#18 🇪🇺Европа ⚡🚀
+hysteria2://b84969fc-0d7d-428e-ac67-68feccfa2559@141.0.187.220:8443?insecure=0&sni=speedtestmark.com&alpn=h3#19 🇪🇺Европа ⚡🚀
+hysteria2://b84969fc-0d7d-428e-ac67-68feccfa2559@92.242.165.141:8443?insecure=0&sni=speedtestmark.com&alpn=h3#20 🇫🇮Финляндия ⚡🚀
+hysteria2://5bffc6bc-7e5c-4f3c-b276-4d4e900426f5@45.88.12.188:443?insecure=0&sni=va.stream-room.com&alpn=h3#21 🇩🇪Германия ⚡🚀
