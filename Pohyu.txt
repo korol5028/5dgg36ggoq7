@@ -1,4 +1,4 @@
-# VPN-FRANKENSTEIN🧬
+#profile-title: VPN-FRANKENSTEIN🧬
 vless://e3453410-191b-48b5-b37f-aac745bbfa6b@179.43.138.146:443?encryption=none&type=grpc&security=reality&sni=chat.deepseek.com&pbk=NHkASezjpfX7xOQ1hBJzrziILeW8Tbi7Y49072LPunw&sid=d897d06cd65ef494&fp=firefox&serviceName=s6c67504ac5acd8919e0c#%F0%9F%87%AA%F0%9F%87%BA%20Global%20LTE%2001
 vless://19f1bf25-784b-4513-af1f-10f662fb3c78@de157.maxleshax.icu:443?encryption=none&type=tcp&flow=xtls-rprx-vision&security=reality&sni=de157.maxleshax.icu&pbk=vEyGN4xj-OQo0U1oUv80ip48iy_unlJmQW9QXVOK_3g&sid=5ce05d738d2b3623&fp=firefox#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20LTE%2001
 vless://e3453410-191b-48b5-b37f-aac745bbfa6b@179.43.187.16:443?encryption=none&type=grpc&security=reality&sni=chat.deepseek.com&pbk=-xRQ097EP_10oRhOU6tuwRwRBBiDqRsPjB0IHIW0xhI&sid=1aea40c56a2b92b2&fp=chrome&serviceName=s3b8c5f214f5cf1ba482e#%F0%9F%87%AA%F0%9F%87%BA%20Global%20LTE%2002
