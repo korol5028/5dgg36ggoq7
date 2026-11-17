@@ -1,5 +1,5 @@
 #profile-title: VPN-FRANKENSTEIN
-#announce: Бесплатная VPN-подписка 🧬 | Admin: @chell526 | TG: @umbabotivpn | legend: @halyava_vpnz
+#announce: Бесплатная VPN-подписка 🧬 | Admin:@chell526 | TG:@umbabotivpn | legend:@halyava_vpnz
 #support-url: https://t.me/umbabotivpn
 vless://88281d02-b387-4fe3-918e-26ed331e6d08@95.129.234.113:8443?encryption=none&security=tls&sni=sorrel-gate.cdn.cachefleet.com&fp=firefox&alpn=h2&type=xhttp&mode=auto&host=is-tw-relay.cdn.cachefleet.com&path=%2Fccxf5snr06b8xxb6#🇪🇺%20Авто%20выбор%2001%20🧬
 hysteria2://1fb67fa2-19c1-4dc8-9761-3f09d63e3a4a@216.238.78.221:443?security=tls&fm=%7B%22udp%22%3A%5B%7B%22settings%22%3A%7B%22password%22%3A%221d465ea80d306756452bc91951fd64a0%22%7D%2C%22type%22%3A%22salamander%22%7D%5D%7D&sni=cdn.bobrui.ca#🇲🇽%20Мексика%2002%20🧬
