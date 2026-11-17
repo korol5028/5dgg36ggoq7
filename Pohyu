@@ -1,7 +1,7 @@
 #profile-title: VPN-FRANKENSTEIN
 #announce: Бесплатная VPN-подписка 🧬 | Admin:@chell526 | TG:@umbabotivpn | legend:@halyava_vpnz
 #support-url: https://t.me/umbabotivpn
-vless://88281d02-b387-4fe3-918e-26ed331e6d08@95.129.234.113:8443?encryption=none&security=tls&sni=sorrel-gate.cdn.cachefleet.com&fp=firefox&alpn=h2&type=xhttp&mode=auto&host=is-tw-relay.cdn.cachefleet.com&path=%2Fccxf5snr06b8xxb6#🇪🇺%20Авто%20выбор%2001%20🧬
+vless://88281d02-b387-4fe3-918e-26ed331e6d08@95.129.234.113:8443?encryption=none&security=tls&sni=sorrel-gate.cdn.cachefleet.com&alpn=h2&fp=firefox&type=xhttp&mode=auto&host=is-tw-relay.cdn.cachefleet.com&path=%2Fccxf5snr06b8xxb6#🇪🇺%20Авто%20выбор%2001%20🧬
 hysteria2://1fb67fa2-19c1-4dc8-9761-3f09d63e3a4a@216.238.78.221:443?security=tls&fm=%7B%22udp%22%3A%5B%7B%22settings%22%3A%7B%22password%22%3A%221d465ea80d306756452bc91951fd64a0%22%7D%2C%22type%22%3A%22salamander%22%7D%5D%7D&sni=cdn.bobrui.ca#🇲🇽%20Мексика%2002%20🧬
 vless://d3863595-3afe-4a74-8305-612ab69cd21c@82.27.77.74:443?flow=xtls-rprx-vision&encryption=none&security=reality&sni=www.samsung.com&fp=firefox&pbk=aDHMrcSHmUWQ7E9I_DErALhEVlLTLb7_OL-NW-ISVlU&sid=f60330c722e2eed2&type=tcp&headerType=none#🇬🇧%20Великобритания%2003%20🧬
 vless://d3863595-3afe-4a74-8305-612ab69cd21c@9ed8a8t.se4.h1clayd.click:443?flow=xtls-rprx-vision&encryption=none&security=reality&sni=9ed8a8t.se4.h1clayd.click&fp=firefox&pbk=aJ_qFu55iLaiUWJ157VIAfAf7Cc6PKbZhFIvE03nNDc&sid=1cc8aab4a9fa9280&type=tcp&headerType=none#🇸🇪%20Швеция%2004%20🧬
@@ -22,6 +22,6 @@ vless://fd90e601-a56c-42b8-aab7-aa02d26fcb04@app.streamru2.net:443?flow=xtls-rpr
 vless://fd90e601-a56c-42b8-aab7-aa02d26fcb04@app.streamru17.net:443?flow=xtls-rprx-vision&encryption=none&security=tls&sni=app.streamru17.net&type=tcp&headerType=none#🇵🇱%20Польша%2019%20🧬
 vless://fd90e601-a56c-42b8-aab7-aa02d26fcb04@app.streamru15.net:443?flow=xtls-rprx-vision&encryption=none&security=reality&sni=app.streamru15.net&fp=firefox&pbk=bkKOiMl4vnU10lZSEEL0Uj5dqKKNXW8I2t86Fo9sVmw&sid=7594d4e0&type=tcp&headerType=none#🇪🇪%20Эстония%2020%20🧬
 vless://038e6b17-84e9-4ace-8973-8ef2308ed6e1@2.27.40.12:443?flow=xtls-rprx-vision&encryption=none&security=reality&sni=yandex.ru&fp=firefox&pbk=T1BWBw3lq9G1LiQ7eQSPfdNQic7bUMEbdFNJBewAwB8&sid=6ad3c0f1e9b2478a&type=tcp&headerType=none#🇳🇱%20Нидерланды%2021%20🧬
-vless://003ec416-45f0-462a-8030-016fe0a71703@199.232.249.182:443?encryption=none&security=tls&sni=huesos.fastly.com&type=xhttp&mode=auto&host=v2.global.ssl.fastly.net&path=%2F#🇪🇺%20Europe%20VPN%2022%20🧬
-vless://b229d38c-35ec-4a0b-9c86-8fceba243d6c@95.129.234.108:8443?encryption=none&security=tls&sni=linden-crest.cdn.cachefleet.com&alpn=h2&fp=firefox&type=xhttp&mode=auto&host=fafeqdhlett2p5la6d.cdn.cachefleet.com&path=%2Fccxf5snr06b8xxb6#🇪🇺%20Europe%20VPN%2023%20🧬
-vless://fd90e601-a56c-42b8-aab7-aa02d26fcb04@app.streamru10.net:443?flow=xtls-rprx-vision&encryption=none&security=tls&sni=app.streamru10.net&fp=firefox&type=tcp&headerType=none#🇷🇺%20Белые%20списки%2024%20🧬
+vless://003ec416-45f0-462a-8030-016fe0a71703@199.232.249.182:443?encryption=none&security=tls&sni=huesos.fastly.com&type=xhttp&mode=auto&host=v2.global.ssl.fastly.net&path=%2F#🇳🇱%20Нидерланды%2022%20🧬
+vless://b229d38c-35ec-4a0b-9c86-8fceba243d6c@95.129.234.108:8443?encryption=none&security=tls&sni=linden-crest.cdn.cachefleet.com&alpn=h2&fp=firefox&type=xhttp&mode=auto&host=fafeqdhlett2p5la6d.cdn.cachefleet.com&path=%2Fccxf5snr06b8xxb6#🇩🇪%20Германия%2023%20🧬
+vless://fd90e601-a56c-42b8-aab7-aa02d26fcb04@app.streamru10.net:443?flow=xtls-rprx-vision&encryption=none&security=tls&sni=app.streamru10.net&fp=firefox&type=tcp&headerType=none#Белые%20списки%2024%20🧬
