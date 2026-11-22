@@ -1,13 +1,1029 @@
-#profile-title: VPN-FRANKENSTEIN
-#announce: Бесплатная VPN-подписка 🧬 | Admin:@chell526 | TG:@umbabotivpn | legend:@halyava_vpnz
-#support-url: https://t.me/umbabotivpn
-vless://e8b7b937-85d9-43f3-bb7a-7d98478756d7@185.86.147.80:9443?encryption=none&security=reality&type=tcp&flow=xtls-rprx-vision&sni=keshyou.mcufa.pro&pbk=-P8DgKISSG4jnLuj6ihZDqZs1_zt-juBrhVhTylHiAo&fp=firefox#%F0%9F%87%AA%F0%9F%87%BA%20%D0%90%D0%B2%D1%82%D0%BE%D0%B2%D1%8B%D0%B1%D0%BE%D1%80%20%F0%9F%A7%9F%F0%9F%A7%AC
-vless://be139ef0-3768-409c-82d9-d759dbcb4458@50.7.221.219:443?encryption=none&security=reality&type=grpc&serviceName=cdnsync.v2.Transfer&sni=xn--80abgtcaqw1f.xn----9sbekcigdcaa6cd7cafr7e.xn--p1ai&pbk=8ENbaQRCWZk-wewSrdHq1_rVjJY4CrxqXUo_5vZNdi4&sid=b2b44805&fp=firefox#%F0%9F%87%B3%F0%9F%87%B1%20%D0%9D%D0%B8%D0%B4%D0%B5%D1%80%D0%BB%D0%B0%D0%BD%D0%B4%D1%8B%20%F0%9F%A7%9F%F0%9F%A7%AC
-vless://e8b7b937-85d9-43f3-bb7a-7d98478756d7@94.183.164.13:443?encryption=none&security=reality&type=tcp&flow=xtls-rprx-vision&sni=obger4.mcufa.pro&pbk=-P8DgKISSG4jnLuj6ihZDqZs1_zt-juBrhVhTylHiAo&fp=firefox#%F0%9F%87%B3%F0%9F%87%B1%20%D0%9D%D0%B8%D0%B4%D0%B5%D1%80%D0%BB%D0%B0%D0%BD%D0%B4%D1%8B%20%F0%9F%A7%9F%F0%9F%A7%AC
-vless://e8b7b937-85d9-43f3-bb7a-7d98478756d7@31.56.18.208:443?encryption=none&security=reality&type=tcp&flow=xtls-rprx-vision&sni=gerb1.mcufa.pro&pbk=-P8DgKISSG4jnLuj6ihZDqZs1_zt-juBrhVhTylHiAo&fp=firefox#%F0%9F%87%A9%F0%9F%87%AA%20%D0%93%D0%B5%D1%80%D0%BC%D0%B0%D0%BD%D0%B8%D1%8F%20%F0%9F%A7%9F%F0%9F%A7%AC
-vless://37af0181-5598-4aad-a040-d926bcb65757@185.86.145.173:443?encryption=none&security=tls&type=xhttp&host=wholebeam.com&path=%2Fapi%2Fv1%2Fupload&mode=auto&sni=wholebeam.com&fp=firefox#%F0%9F%87%B8%F0%9F%87%B4%20%D0%9E%D0%B1%D1%85%D0%BE%D0%B4%201%20%F0%9F%A7%9F%F0%9F%A7%AC
-vless://e8b7b937-85d9-43f3-bb7a-7d98478756d7@185.86.147.80:9443?encryption=none&security=reality&type=tcp&flow=xtls-rprx-vision&sni=keshyou.mcufa.pro&pbk=-P8DgKISSG4jnLuj6ihZDqZs1_zt-juBrhVhTylHiAo&fp=firefox#%F0%9F%87%B8%F0%9F%87%B4%20%D0%9E%D0%B1%D1%85%D0%BE%D0%B4%202%20%F0%9F%A7%9F%F0%9F%A7%AC
-vless://e8b7b937-85d9-43f3-bb7a-7d98478756d7@185.86.147.80:9444?encryption=none&security=reality&type=tcp&flow=xtls-rprx-vision&sni=keshyou.mcufa.pro&pbk=-P8DgKISSG4jnLuj6ihZDqZs1_zt-juBrhVhTylHiAo&fp=firefox#%F0%9F%87%B8%F0%9F%87%B4%20%D0%9E%D0%B1%D1%85%D0%BE%D0%B4%203%20%F0%9F%A7%9F%F0%9F%A7%AC
-vless://e8b7b937-85d9-43f3-bb7a-7d98478756d7@185.86.147.80:9446?encryption=none&security=reality&type=tcp&flow=xtls-rprx-vision&sni=keshyou.mcufa.pro&pbk=-P8DgKISSG4jnLuj6ihZDqZs1_zt-juBrhVhTylHiAo&fp=firefox#%F0%9F%87%B8%F0%9F%87%B4%20%D0%9E%D0%B1%D1%85%D0%BE%D0%B4%204%20%F0%9F%A7%9F%F0%9F%A7%AC
-vless://e8b7b937-85d9-43f3-bb7a-7d98478756d7@185.86.147.80:9441?encryption=none&security=reality&type=tcp&flow=xtls-rprx-vision&sni=keshyou.mcufa.pro&pbk=-P8DgKISSG4jnLuj6ihZDqZs1_zt-juBrhVhTylHiAo&fp=firefox#%F0%9F%87%B8%F0%9F%87%B4%20%D0%9E%D0%B1%D1%85%D0%BE%D0%B4%205%20%F0%9F%A7%9F%F0%9F%A7%AC
-vless://e8b7b937-85d9-43f3-bb7a-7d98478756d7@94.183.164.101:443?encryption=none&security=reality&type=tcp&flow=xtls-rprx-vision&sni=obger5.mcufa.pro&pbk=-P8DgKISSG4jnLuj6ihZDqZs1_zt-juBrhVhTylHiAo&fp=firefox#%F0%9F%87%B8%F0%9F%87%B4%20%D0%9E%D0%B1%D1%85%D0%BE%D0%B4%206%20%F0%9F%A7%9F%F0%9F%A7%AC
+// =====================================================================================
+//  Самообновляющаяся VPN-подписка для Cloudflare Workers + GitHub (вместо KV).
+//  Сгенерировано ботом «Реконструктор подписок».
+//
+//  Как запустить:
+//   1) Workers & Pages → Create → Hello World → Edit code → вставить этот файл → Deploy.
+//   2) Settings → Variables and Secrets:
+//        GITHUB_TOKEN  — токен GitHub с правами repo (contents: read/write)
+//        GITHUB_OWNER  — владелец репозитория (например, myuser)
+//        GITHUB_REPO   — имя репозитория (например, vpn-sub)
+//        GITHUB_BRANCH — ветка (по умолчанию main)
+//        ADMIN_KEY     — любой пароль для панели
+//   3) Панель: https://<воркер>/refresh?key=<ADMIN_KEY>  (кнопка «Обновить сейчас»).
+//   Ссылка подписки пользователя: https://<воркер>/<токен>
+// =====================================================================================
+const SPEC = {
+ "generatedAt": "2026-11-22 20:43 UTC",
+ "meta": {
+  "name": "VPN-FRANKENSTEIN",
+  "description": "Бесплатная VPN подписка 🧬🧟",
+  "author": "https://t.me/umbabotivpn",
+  "support": "https://t.me/umbabotivpn",
+  "updateHours": 6
+ },
+ "sources": [
+  {
+   "id": "s1",
+   "name": "dds.yandexdns-api-service.help",
+   "url": "https://dds.yandexdns-api-service.help/sub/SEE0HJCEGV/",
+   "ua": "v2rayNG/1.10.5"
+  },
+  {
+   "id": "s2",
+   "name": "clck.ru",
+   "url": "https://clck.ru/3XAsp8#PatriotVPN",
+   "ua": "v2rayNG/1.10.5"
+  },
+  {
+   "id": "s3",
+   "name": "tgmansion.fun",
+   "url": "https://tgmansion.fun/sub/4a37e8e90b4f8331",
+   "ua": "v2rayNG/1.10.5"
+  },
+  {
+   "id": "s4",
+   "name": "tgmansion.fun",
+   "url": "https://tgmansion.fun/sub/4a37e8e90b4f8331/wl",
+   "ua": "v2rayNG/1.10.5"
+  }
+ ],
+ "users": {
+  "ad303cddd27c68552ff0bc64f99306c8": {
+   "name": "Amir",
+   "expires": "2222-02-22",
+   "blocked": false
+  }
+ },
+ "template": null,
+ "configs": [
+  {
+   "name": "🇪🇺автовыбор 🧬🧟",
+   "desc": "",
+   "mode": "auto",
+   "strategy": "leastPing",
+   "tiers": [
+    {
+     "rules": [
+      {
+       "src": "s1",
+       "names": [
+        "🇳🇱 Нидерланды #1 [50 Мбит]",
+        "🇳🇱 Нидерланды #2 [50 Мбит]",
+        "🇳🇱 Нидерланды #3 [50 Мбит]",
+        "🇩🇪 Германия #1 [50 Мбит]",
+        "🇩🇪 Германия #2 [50 Мбит]",
+        "🇩🇪 Германия #3 [50 Мбит]"
+       ]
+      },
+      {
+       "src": "s2",
+       "names": [
+        "🇪🇺 📶 Белый список | 4G/LTE ⚡",
+        "🇳🇱 Нидерланды",
+        "🇳🇱 Нидерланды | Запасное",
+        "🇩🇪 Германия"
+       ]
+      },
+      {
+       "src": "s3",
+       "names": [
+        "🇬🇧 Автоподбор",
+        "🇫🇷 Франция #1",
+        "🇩🇪 Германия #1",
+        "🇩🇪 Германия #2",
+        "🇩🇪 Германия #3",
+        "🇵🇱 Польша #1",
+        "🇩🇪 Германия #4",
+        "🇵🇱 Польша #2",
+        "🇳🇱 Нидерланды #1",
+        "🇧🇬 Болгария #1",
+        "Глушилка | Болгария #03",
+        "Глушилка | Болгария #02",
+        "Глушилка | Германия #10",
+        "Глушилка | Латвия #01",
+        "Глушилка | Германия #16",
+        "Глушилка | Латвия #02",
+        "Глушилка | Нидерланды #01",
+        "Глушилка | Нидерланды #16",
+        "Глушилка | Польша #03",
+        "Глушилка | Польша #01",
+        "Глушилка | Россия #03",
+        "Глушилка | Россия #11",
+        "Глушилка | США #04",
+        "Глушилка | Сингапур #01",
+        "Глушилка | Финляндия #02",
+        "Глушилка | Финляндия #01"
+       ]
+      },
+      {
+       "src": "s4",
+       "names": [
+        "Глушилки 🔥 (Польша) #01",
+        "Глушилки 🔥 (Нидерланды) #02",
+        "Глушилки 🔥 (Нидерланды) #03",
+        "Глушилки 🔥 (Германия) #04",
+        "Глушилки 🔥 (Финляндия) #05",
+        "Глушилки 🔥 (Россия) #06",
+        "Глушилки 🔥 (Германия) #07",
+        "Глушилки 🔥 (Германия) #09",
+        "Глушилки 🔥 (Германия) #08",
+        "Глушилки 🔥 (Финляндия) #10",
+        "Глушилки 🔥 (Нидерланды) #11",
+        "Глушилки 🔥 (Россия) #12",
+        "Глушилки 🔥 (Франция) #13",
+        "Глушилки 🔥 (Россия) #14",
+        "Глушилки 🔥 (Германия) #15",
+        "Глушилки 🔥 (Россия) #16",
+        "Глушилки 🔥 (Болгария) #17",
+        "Глушилки 🔥 (Нидерланды) #18",
+        "Глушилки 🔥 (Россия) #19",
+        "Глушилки 🔥 (Европа) #20",
+        "Глушилки 🔥 (Швейцария) #21",
+        "Глушилки 🔥 (Польша) #22",
+        "Глушилки 🔥 (Европа) #23",
+        "Глушилки 🔥 (Франция) #26",
+        "Глушилки 🔥 (Россия) #25",
+        "Глушилки 🔥 (Германия) #24",
+        "Глушилки 🔥 (Финляндия) #28",
+        "Глушилки 🔥 (Россия) #27",
+        "Глушилки 🔥 (Нидерланды) #29",
+        "Глушилки 🔥 (Финляндия) #30",
+        "Глушилки 🔥 (Франция) #31",
+        "Глушилки 🔥 (Россия) #32",
+        "Глушилки 🔥 (Болгария) #33",
+        "Глушилки 🔥 (Финляндия) #34",
+        "Глушилки 🔥 (Германия) #35",
+        "Глушилки 🔥 (Германия) #36",
+        "Глушилки 🔥 (Германия) #37",
+        "Глушилки 🔥 (Польша) #38",
+        "Глушилки 🔥 (США) #39",
+        "Глушилки 🔥 (Европа) #40",
+        "Глушилки 🔥 (Франция) #41",
+        "Глушилки 🔥 (Франция) #42",
+        "Глушилки 🔥 (Финляндия) #43",
+        "Глушилки 🔥 (Европа) #44",
+        "Глушилки 🔥 (Финляндия) #45",
+        "Глушилки 🔥 (Европа) #46",
+        "Глушилки 🔥 (Финляндия) #47",
+        "Глушилки 🔥 (Германия) #48",
+        "Глушилки 🔥 (Европа) #49",
+        "Глушилки 🔥 (Европа) #50",
+        "Глушилки 🔥 (Германия) #51",
+        "Глушилки 🔥 (Болгария) #52",
+        "Глушилки 🔥 (Нидерланды) #54",
+        "Глушилки 🔥 (Нидерланды) #53",
+        "Глушилки 🔥 (Европа) #55",
+        "Глушилки 🔥 (Германия) #56",
+        "Глушилки 🔥 (Нидерланды) #57",
+        "Глушилки 🔥 (Германия) #58",
+        "Глушилки 🔥 (Нидерланды) #59",
+        "Глушилки 🔥 (Европа) #60"
+       ]
+      }
+     ]
+    }
+   ]
+  }
+ ]
+};
+const VERSION = "gen · " + SPEC.generatedAt;
+const KV_KEY = "gen-v2";
+const TZ = "+03:00";
+const HOUR = 3600 * 1000;
+const REFRESH_EVERY_MS = (Number(SPEC.meta.updateHours) || 6) * HOUR;
+
+// ===================== GitHub storage (вместо KV) =====================
+const GH_API = "https://api.github.com";
+function ghHeaders(env) {
+  return {
+    "Authorization": `Bearer ${env.GITHUB_TOKEN}`,
+    "Accept": "application/vnd.github+json",
+    "User-Agent": "cf-worker-sub",
+    "X-GitHub-Api-Version": "2022-11-28",
+  };
+}
+function ghConfig(env) {
+  return {
+    owner: env.GITHUB_OWNER,
+    repo: env.GITHUB_REPO,
+    branch: env.GITHUB_BRANCH || "main",
+  };
+}
+async function ghGetFile(env, path) {
+  const { owner, repo, branch } = ghConfig(env);
+  const url = `${GH_API}/repos/${owner}/${repo}/contents/${encodeURIComponent(path)}?ref=${encodeURIComponent(branch)}`;
+  const res = await fetch(url, { headers: ghHeaders(env) });
+  if (res.status === 404) return null;
+  if (!res.ok) throw new Error(`GitHub GET ${path}: HTTP ${res.status}`);
+  const data = await res.json();
+  const content = atob(data.content.replace(/\s/g, ""));
+  return { content, sha: data.sha };
+}
+async function ghGetJson(env, path) {
+  const f = await ghGetFile(env, path);
+  if (!f) return null;
+  try { return JSON.parse(f.content); } catch (_) { return null; }
+}
+async function ghGetText(env, path) {
+  const f = await ghGetFile(env, path);
+  return f ? f.content : null;
+}
+async function ghPutFile(env, path, text, message) {
+  const { owner, repo, branch } = ghConfig(env);
+  const existing = await ghGetFile(env, path).catch(() => null);
+  const body = {
+    message: message || `update ${path}`,
+    content: btoa(unescape(encodeURIComponent(text))),
+    branch,
+  };
+  if (existing && existing.sha) body.sha = existing.sha;
+  const res = await fetch(`${GH_API}/repos/${owner}/${repo}/contents/${encodeURIComponent(path)}`, {
+    method: "PUT",
+    headers: ghHeaders(env),
+    body: JSON.stringify(body),
+  });
+  if (!res.ok) {
+    const err = await res.text();
+    throw new Error(`GitHub PUT ${path}: HTTP ${res.status} ${err.slice(0, 200)}`);
+  }
+  return res.json();
+}
+async function ghDeleteFile(env, path, message) {
+  const { owner, repo, branch } = ghConfig(env);
+  const existing = await ghGetFile(env, path).catch(() => null);
+  if (!existing) return;
+  const res = await fetch(`${GH_API}/repos/${owner}/${repo}/contents/${encodeURIComponent(path)}`, {
+    method: "DELETE",
+    headers: ghHeaders(env),
+    body: JSON.stringify({ message: message || `delete ${path}`, sha: existing.sha, branch }),
+  });
+  if (!res.ok) throw new Error(`GitHub DELETE ${path}: HTTP ${res.status}`);
+}
+
+// ===================== ЯДРО: разбор подписок, загрузка, правила поиска =====================
+const norm = (s) => String(s == null ? "" : s).toLowerCase().replace(/ё/g, "е").replace(/\s+/g, " ").trim();
+const canon = (s) => norm(s).replace(/[\ufe0f\u200d]/g, "");
+const clone = (x) => JSON.parse(JSON.stringify(x));
+const SERVICE = ["freedom", "blackhole", "dns", "loopback"];
+const utf8b64 = (s) => { const b = new TextEncoder().encode(s); let bin = ""; for (const x of b) bin += String.fromCharCode(x); return btoa(bin); };
+
+// ---------- разбор ссылок (vless/vmess/trojan/ss) в outbound Xray ----------
+const b64dec = (s) => {
+  let b = s.replace(/\s+/g, "").replace(/-/g, "+").replace(/_/g, "/");
+  while (b.length % 4) b += "=";
+  return new TextDecoder().decode(Uint8Array.from(atob(b), (c) => c.charCodeAt(0)));
+};
+
+function buildStream(net, sec, g) {
+  net = net || "tcp";
+  sec = sec || "none";
+  const ss = { network: net === "splithttp" ? "xhttp" : net, security: sec };
+  const path = g("path"), host = g("host");
+  if (net === "ws") ss.wsSettings = { path: path || "/", headers: host ? { Host: host } : {} };
+  else if (net === "grpc") ss.grpcSettings = { serviceName: g("serviceName") || "", multiMode: g("mode") === "multi", authority: g("authority") || "" };
+  else if (net === "xhttp" || net === "splithttp") {
+    ss.xhttpSettings = { path: path || "/", host: host || "", mode: g("mode") || "auto" };
+    const extra = g("extra");
+    if (extra) { try { ss.xhttpSettings.extra = JSON.parse(extra); } catch (_) {} }
+  } else if (net === "httpupgrade") ss.httpupgradeSettings = { path: path || "/", host: host || "" };
+  else if (net === "kcp") ss.kcpSettings = { header: { type: g("headerType") || "none" }, seed: g("seed") || undefined };
+  else ss.tcpSettings = {};
+
+  if (sec === "tls") {
+    ss.tlsSettings = { serverName: g("sni") || host || "", fingerprint: g("fp") || "chrome" };
+    if (g("alpn")) ss.tlsSettings.alpn = g("alpn").split(",");
+    if (g("allowInsecure") === "1") ss.tlsSettings.allowInsecure = true;
+  } else if (sec === "reality") {
+    ss.realitySettings = { serverName: g("sni") || "", fingerprint: g("fp") || "chrome", publicKey: g("pbk") || "", shortId: g("sid") || "", spiderX: g("spx") || "/" };
+  }
+  return ss;
+}
+
+// Возвращает { remarks, outbounds:[...] } или null, если протокол не поддержан
+function parseLink(link) {
+  const proto = link.slice(0, link.indexOf(":")).toLowerCase();
+  const hashAt = link.indexOf("#");
+  let name = "";
+  try { name = hashAt === -1 ? "" : decodeURIComponent(link.slice(hashAt + 1)); } catch (_) { name = link.slice(hashAt + 1); }
+
+  try {
+    if (proto === "vmess") {
+      const j = JSON.parse(b64dec(link.slice(8)));
+      const g = (k) => ({ path: j.path, host: j.host, sni: j.sni || j.host, fp: j.fp, alpn: j.alpn, headerType: j.type, serviceName: j.path }[k]);
+      return {
+        remarks: j.ps || name,
+        outbounds: [{
+          protocol: "vmess",
+          settings: { vnext: [{ address: j.add, port: Number(j.port), users: [{ id: j.id, alterId: Number(j.aid || 0), security: j.scy || "auto" }] }] },
+          streamSettings: buildStream(j.net, j.tls === "tls" ? "tls" : "none", g),
+        }],
+      };
+    }
+
+    if (proto === "ss") {
+      let body = link.slice(5, hashAt === -1 ? undefined : hashAt);
+      const q = body.indexOf("?");
+      if (q !== -1) body = body.slice(0, q);
+      let creds, hostport;
+      if (body.includes("@")) {
+        const at = body.lastIndexOf("@");
+        creds = body.slice(0, at);
+        hostport = body.slice(at + 1);
+        if (!creds.includes(":")) creds = b64dec(decodeURIComponent(creds));
+        else creds = decodeURIComponent(creds);
+      } else {
+        const dec = b64dec(body);
+        const at = dec.lastIndexOf("@");
+        creds = dec.slice(0, at);
+        hostport = dec.slice(at + 1);
+      }
+      const c = creds.indexOf(":");
+      const pi = hostport.lastIndexOf(":");
+      return {
+        remarks: name,
+        outbounds: [{
+          protocol: "shadowsocks",
+          settings: { servers: [{ address: hostport.slice(0, pi).replace(/^\[|\]$/g, ""), port: Number(hostport.slice(pi + 1)), method: creds.slice(0, c), password: creds.slice(c + 1) }] },
+          streamSettings: { network: "tcp", security: "none" },
+        }],
+      };
+    }
+
+    if (proto === "vless" || proto === "trojan") {
+      const u = new URL(link);
+      const g = (k) => u.searchParams.get(k) || undefined;
+      const address = u.hostname.replace(/^\[|\]$/g, "");
+      const port = Number(u.port || 443);
+      const user = decodeURIComponent(u.username);
+      const stream = buildStream(g("type"), g("security") || (proto === "trojan" ? "tls" : "none"), g);
+      if (proto === "vless") {
+        return {
+          remarks: name,
+          outbounds: [{
+            protocol: "vless",
+            settings: { vnext: [{ address, port, users: [{ id: user, encryption: g("encryption") || "none", flow: g("flow") || "" }] }] },
+            streamSettings: stream,
+          }],
+        };
+      }
+      return { remarks: name, outbounds: [{ protocol: "trojan", settings: { servers: [{ address, port, password: user }] }, streamSettings: stream }] };
+    }
+  } catch (_) {}
+  return null;
+}
+
+// hysteria2:// → outbound Xray
+function parseHy2(link) {
+  const hashAt = link.indexOf("#");
+  let name = "";
+  try { name = hashAt === -1 ? "" : decodeURIComponent(link.slice(hashAt + 1)); } catch (_) { name = link.slice(hashAt + 1); }
+  try {
+    const u = new URL(link.replace(/^hy2:/i, "hysteria2:"));
+    const g = (k) => u.searchParams.get(k) || "";
+    const tls = { serverName: g("sni") || u.hostname, alpn: ["h3"], fingerprint: g("fp") || "chrome", enableSessionResumption: false };
+    if (g("insecure") === "1") tls.allowInsecure = true;
+    return { remarks: name, outbounds: [{ protocol: "hysteria", settings: { address: u.hostname.replace(/^\[|\]$/g, ""), port: Number(u.port || 443), version: 2 }, streamSettings: { network: "hysteria", hysteriaSettings: { version: 2, auth: decodeURIComponent(u.username + (u.password ? ":" + u.password : "")) }, security: "tls", tlsSettings: tls } }] };
+  } catch (_) { return null; }
+}
+const parseAnyLink = (link) => (/^(hysteria2|hy2):/i.test(link) ? parseHy2(link) : parseLink(link));
+
+// Вспомогательные outbound'ы (fragment, цепочки), на которые ссылается сервер
+const refTags = (o) => [o.streamSettings && o.streamSettings.sockopt && o.streamSettings.sockopt.dialerProxy, o.proxySettings && o.proxySettings.tag].filter(Boolean);
+function bundlesOf(cfg) {
+  const out = [];
+  const all = (cfg && cfg.outbounds) || [];
+  const byTag = new Map(all.filter((o) => o.tag).map((o) => [o.tag, o]));
+  const helperTags = new Set();
+  for (const o of all) for (const t of refTags(o)) helperTags.add(t);
+  for (const o of all) {
+    if (o.tag && helperTags.has(o.tag)) continue;
+    if (SERVICE.includes(o.protocol)) continue;
+    const helpers = [], seen = new Set(), queue = refTags(o);
+    while (queue.length) {
+      const t = queue.shift();
+      if (seen.has(t) || !byTag.has(t)) continue;
+      seen.add(t);
+      helpers.push(clone(byTag.get(t)));
+      queue.push(...refTags(byTag.get(t)));
+    }
+    out.push({ main: clone(o), helpers });
+  }
+  return out;
+}
+
+// Текст подписки → { format, skipped, items:[{name, bundles, full}] } | null
+function parseSource(text) {
+  text = String(text || "").trim();
+  const isLinkLine = (l) => /^(vless|vmess|trojan|ss|hysteria2?|hy2):\/\//i.test(l);
+  const fromText = (t, wasB64) => {
+    t = t.trim();
+    if (t[0] === "[" || t[0] === "{") {
+      const data = JSON.parse(t);
+      const list = (Array.isArray(data) ? data : [data]).filter((c) => c && typeof c === "object");
+      return { format: "Xray JSON", skipped: 0, items: list.map((c) => ({ name: String(c.remarks || "без названия"), bundles: bundlesOf(c), full: Array.isArray(c.inbounds) && Array.isArray(c.outbounds) ? c : null })) };
+    }
+    const lines = t.split(/\r?\n/).map((l) => l.trim()).filter(isLinkLine);
+    if (!lines.length) return null;
+    const items = [];
+    let skipped = 0;
+    for (const l of lines) {
+      const it = parseAnyLink(l);
+      if (it && it.outbounds && it.outbounds[0]) items.push({ name: String(it.remarks || "без названия"), bundles: [{ main: it.outbounds[0], helpers: [] }], full: null });
+      else skipped++;
+    }
+    return { format: wasB64 ? "ссылки (base64)" : "ссылки", skipped, items };
+  };
+  let out = null;
+  try { out = fromText(text, false); } catch (_) {}
+  if (!out) { try { out = fromText(b64dec(text), true); } catch (_) {} }
+  return out;
+}
+
+// ---------- загрузка источника: перебор User-Agent, таймаут, защита от 429 ----------
+const UA_LIST = ["v2rayNG/1.10.5", "Happ/2.7.0", "Streisand/1.6.0", "Hiddify/2.0.5", "v2rayN/7.12.5", "sing-box/1.11.4", "ClashMeta/1.19"];
+const FETCH_TIMEOUT_MS = 12000;
+async function fetchRaw(url, ua) {
+  let res;
+  try {
+    res = await fetch(url, {
+      signal: AbortSignal.timeout(FETCH_TIMEOUT_MS),
+      headers: { "User-Agent": ua, Accept: "*/*", "x-hwid": "5f0c2d9e8a7b4c31", "x-device-os": "Android", "x-ver-os": "14", "x-device-model": "Pixel 7" },
+    });
+  } catch (e) {
+    throw Object.assign(new Error(e && e.name === "TimeoutError" ? `таймаут ${FETCH_TIMEOUT_MS / 1000} с` : "сеть: " + String(e).slice(0, 80)), { network: true });
+  }
+  if (!res.ok) throw Object.assign(new Error("HTTP " + res.status + (res.status === 429 ? " (слишком много запросов)" : "")), { status: res.status, stop: res.status === 429 || res.status === 404 });
+  return await res.text();
+}
+const isStubItems = (items) => items.length === 1 && /не поддерж|not supported|unsupported/.test(norm(items[0].name));
+// src: { url?, text?, ua? }. Возвращает { format, skipped, items, ua, attempts }
+async function loadSource(src) {
+  if (!src.url) {
+    const p = parseSource(src.text || "");
+    if (!p || !p.items.length) throw new Error("в тексте нет серверов");
+    return { ...p, ua: "", attempts: [] };
+  }
+  const uas = [src.ua, ...UA_LIST].filter((u, i, a) => u && a.indexOf(u) === i).slice(0, src.maxTries || 99);
+  const attempts = [];
+  let stub = false, lastErr = null;
+  for (const ua of uas) {
+    try {
+      const raw = await fetchRaw(src.url, ua);
+      const p = parseSource(raw);
+      if (!p || !p.items.length) { attempts.push({ ua, result: "формат не распознан" }); lastErr = new Error("формат не распознан. Начало ответа: " + JSON.stringify(raw.slice(0, 80))); continue; }
+      if (isStubItems(p.items)) { stub = true; attempts.push({ ua, result: "заглушка «приложение не поддерживается»" }); continue; }
+      attempts.push({ ua, result: "ok", items: p.items.length });
+      return { ...p, ua, attempts };
+    } catch (e) {
+      attempts.push({ ua, result: String(e.message || e) });
+      lastErr = e;
+      if (e.network || e.stop) break;
+    }
+  }
+  throw Object.assign(lastErr && !stub ? lastErr : new Error(stub ? "сайт отдаёт заглушку «приложение не поддерживается» для всех User-Agent" : "нет ответа"), { attempts });
+}
+
+// ---------- правила поиска серверов ----------
+const sigOf = (b) => JSON.stringify([b.main.protocol, b.main.settings, b.main.streamSettings]);
+function dedupe(bundles) {
+  const seen = new Set();
+  return bundles.filter((b) => { const k = sigOf(b); if (seen.has(k)) return false; seen.add(k); return true; });
+}
+const escRe = (s) => s.replace(/[.*+?^${}()|[\]\\]/g, "\\$&");
+// Слово: «=бс» — только целое слово; иначе — подстрока
+function kwMatch(n, w) {
+  if (w[0] === "=") { const x = w.slice(1); return !!x && new RegExp("(^|[^а-яa-z0-9])" + escRe(x) + "($|[^а-яa-z0-9])").test(n); }
+  return n.includes(w);
+}
+// Фраза: части через «+» должны найтись все
+const phraseMatch = (n, phrase) => { const parts = canon(phrase).split("+").map((x) => x.trim()).filter(Boolean); return parts.length > 0 && parts.every((w) => kwMatch(n, w)); };
+// Правило: { src?: id|"*", names?: [точные названия], include?: [фразы], exclude?: [фразы] }
+function matchItem(item, srcId, rule) {
+  if (rule.src && rule.src !== "*" && rule.src !== srcId) return false;
+  const n = canon(item.name);
+  if (rule.names && rule.names.length) return rule.names.some((x) => canon(x) === n);
+  if ((rule.exclude || []).some((p) => phraseMatch(n, p))) return false;
+  return (rule.include || []).some((p) => phraseMatch(n, p));
+}
+// sources: [{ id, items }]. Возвращает элементы подписок, подошедшие под правила уровня
+function collectItems(tier, sources) {
+  const out = [];
+  for (const rule of tier.rules || []) for (const s of sources) for (const it of s.items) if (matchItem(it, s.id, rule) && !out.includes(it)) out.push(it);
+  return out;
+}
+function collectServers(tier, sources) {
+  const out = [];
+  for (const it of collectItems(tier, sources)) it.bundles.forEach((b) => out.push({ ...b, name: it.name + (it.bundles.length > 1 ? " · " + (b.main.tag || "") : "") }));
+  return dedupe(out);
+}
+
+// ---------- адреса и нормализация через ссылки ----------
+const addrOf = (o) => { const s = (o && o.settings) || {}; const v = (s.vnext && s.vnext[0]) || (s.servers && s.servers[0]) || s; return String(v.address || ""); };
+const portOf = (o) => { const s = (o && o.settings) || {}; const v = (s.vnext && s.vnext[0]) || (s.servers && s.servers[0]) || s; return Number(v.port || 0); };
+/* ---------- outbound → ссылка ---------- */
+function streamQuery(st, q) {
+  st = st || {};
+  const net = st.network || "tcp";
+  q.set("type", net);
+  const sec = st.security || "none";
+  q.set("security", sec);
+  if (sec === "tls") {
+    const t = st.tlsSettings || {};
+    if (t.serverName) q.set("sni", t.serverName);
+    if (t.fingerprint) q.set("fp", t.fingerprint);
+    if (t.alpn) q.set("alpn", [].concat(t.alpn).join(","));
+    if (t.allowInsecure) q.set("allowInsecure", "1");
+  } else if (sec === "reality") {
+    const r = st.realitySettings || {};
+    if (r.serverName) q.set("sni", r.serverName);
+    if (r.fingerprint) q.set("fp", r.fingerprint);
+    if (r.publicKey) q.set("pbk", r.publicKey);
+    if (r.shortId) q.set("sid", r.shortId);
+    if (r.spiderX) q.set("spx", r.spiderX);
+  }
+  if (net === "ws") { const w = st.wsSettings || {}; if (w.path) q.set("path", w.path); const h = w.host || (w.headers && w.headers.Host); if (h) q.set("host", h); }
+  else if (net === "grpc") { const g = st.grpcSettings || {}; if (g.serviceName) q.set("serviceName", g.serviceName); if (g.multiMode) q.set("mode", "multi"); if (g.authority) q.set("authority", g.authority); }
+  else if (net === "xhttp" || net === "splithttp") { const x = st.xhttpSettings || {}; if (x.path) q.set("path", x.path); if (x.host) q.set("host", x.host); if (x.mode) q.set("mode", x.mode); if (x.extra) q.set("extra", JSON.stringify(x.extra)); }
+  else if (net === "httpupgrade") { const x = st.httpupgradeSettings || {}; if (x.path) q.set("path", x.path); if (x.host) q.set("host", x.host); }
+  else if (net === "kcp") { const k = st.kcpSettings || {}; if (k.header && k.header.type) q.set("headerType", k.header.type); if (k.seed) q.set("seed", k.seed); }
+}
+function outboundToLink(o, name) {
+  try {
+    const s = o.settings || {};
+    const v = (s.vnext && s.vnext[0]) || (s.servers && s.servers[0]) || s;
+    const u = (v.users && v.users[0]) || v;
+    const host = String(v.address || "");
+    const hostp = host.includes(":") ? "[" + host + "]" : host;
+    const port = v.port;
+    const frag = "#" + encodeURIComponent(name || "");
+    const st = o.streamSettings || {};
+    if (o.protocol === "vless") {
+      const q = new URLSearchParams();
+      q.set("encryption", u.encryption || "none");
+      if (u.flow) q.set("flow", u.flow);
+      streamQuery(st, q);
+      return `vless://${encodeURIComponent(u.id || "")}@${hostp}:${port}?${q}${frag}`;
+    }
+    if (o.protocol === "trojan") {
+      const q = new URLSearchParams();
+      streamQuery(st, q);
+      return `trojan://${encodeURIComponent(v.password || u.password || "")}@${hostp}:${port}?${q}${frag}`;
+    }
+    if (o.protocol === "vmess") {
+      const net = st.network || "tcp";
+      const w = st.wsSettings || {};
+      const j = { v: "2", ps: name || "", add: host, port: String(port), id: u.id || "", aid: String(u.alterId || 0), scy: u.security || "auto", net, type: "none", host: w.host || (w.headers && w.headers.Host) || "", path: w.path || (st.grpcSettings && st.grpcSettings.serviceName) || "", tls: st.security === "tls" ? "tls" : "", sni: (st.tlsSettings && st.tlsSettings.serverName) || "", alpn: st.tlsSettings && st.tlsSettings.alpn ? [].concat(st.tlsSettings.alpn).join(",") : "", fp: (st.tlsSettings && st.tlsSettings.fingerprint) || "" };
+      return "vmess://" + utf8b64(JSON.stringify(j));
+    }
+    if (o.protocol === "shadowsocks") {
+      return `ss://${utf8b64((v.method || "") + ":" + (v.password || ""))}@${hostp}:${port}${frag}`;
+    }
+    if (o.protocol === "hysteria") {
+      const h = st.hysteriaSettings || {};
+      const t = st.tlsSettings || {};
+      const q = new URLSearchParams();
+      if (t.serverName) q.set("sni", t.serverName);
+      if (t.allowInsecure) q.set("insecure", "1");
+      return `hysteria2://${encodeURIComponent(h.auth || "")}@${hostp}:${port}?${q}${frag}`;
+    }
+  } catch (_) {}
+  return null;
+}
+
+// Личность сервера: адрес, порт, идентификатор/пароль. Если после «перевода в ссылку и обратно» она совпала, берём «чистую» версию.
+const identOf = (o) => { const s = (o && o.settings) || {}; const v = (s.vnext && s.vnext[0]) || (s.servers && s.servers[0]) || s; const u = (v.users && v.users[0]) || v; return [o.protocol, addrOf(o).toLowerCase(), portOf(o), u.id || u.password || (o.streamSettings && o.streamSettings.hysteriaSettings && o.streamSettings.hysteriaSettings.auth) || ""].join("|"); };
+function normalizeBundle(b) {
+  if (b.helpers.length) return false; // цепочки и fragment в ссылку не переводятся
+  try {
+    const link = outboundToLink(b.main, "n");
+    const back = link && parseAnyLink(link);
+    const o = back && back.outbounds && back.outbounds[0];
+    if (!o || !addrOf(o) || !portOf(o) || identOf(o) !== identOf(b.main)) return false;
+    if (b.main.tag) o.tag = b.main.tag;
+    b.main = o;
+    return true;
+  } catch (_) { return false; }
+}
+
+// ---------- шаблон и сборка Xray-конфига из уровней серверов ----------
+const stripTag = (o) => { const { tag, ...rest } = o; return rest; };
+const BUILTIN = {
+  dns: { servers: ["1.1.1.1", "1.0.0.1"], queryStrategy: "UseIP" },
+  inbounds: [
+    { tag: "socks", port: 10808, listen: "127.0.0.1", protocol: "socks", settings: { udp: true, auth: "noauth" }, sniffing: { enabled: true, routeOnly: false, destOverride: ["http", "tls", "quic"] } },
+    { tag: "http", port: 10809, listen: "127.0.0.1", protocol: "http", settings: { allowTransparent: false }, sniffing: { enabled: true, routeOnly: false, destOverride: ["http", "tls", "quic"] } },
+  ],
+  service: [
+    { tag: "direct", protocol: "freedom", streamSettings: { sockopt: { happyEyeballs: { tryDelayMs: 250 }, domainStrategy: "ForceIPv4" } } },
+    { tag: "block", protocol: "blackhole" },
+  ],
+  rules: [
+    { type: "field", network: "udp", port: "443", outboundTag: "block" },
+    { type: "field", ip: ["geoip:private"], outboundTag: "direct" },
+    { type: "field", protocol: ["bittorrent"], outboundTag: "direct" },
+  ],
+  routing: { domainStrategy: "IPIfNonMatch" },
+};
+// Из готового конфига берём «оболочку»: порты, DNS, правила direct/block
+function templateFrom(cfg) {
+  const r = cfg.routing || {};
+  const rules = (r.rules || []).filter((x) => !x.balancerTag && !x.inboundTag && (x.outboundTag === "direct" || x.outboundTag === "block"));
+  const service = (cfg.outbounds || []).filter((o) => (o.tag === "direct" && o.protocol === "freedom") || (o.tag === "block" && o.protocol === "blackhole"));
+  const routing = {};
+  for (const k of ["domainStrategy", "domainMatcher"]) if (r[k] !== undefined) routing[k] = r[k];
+  const inb = (cfg.inbounds || []).filter((i) => i.protocol === "socks" || i.protocol === "http");
+  return {
+    dns: clone(cfg.dns || BUILTIN.dns),
+    inbounds: inb.length ? clone(inb) : clone(BUILTIN.inbounds),
+    service: service.length === 2 ? clone(service) : clone(BUILTIN.service),
+    rules: clone(rules),
+    routing: Object.keys(routing).length ? routing : clone(BUILTIN.routing),
+  };
+}
+const STRATEGIES = {
+  leastPing: () => ({ type: "leastPing" }),
+  leastLoad: () => ({ type: "leastLoad", settings: { maxRTT: "2s", expected: 3, baselines: ["400ms", "1s"], tolerance: 0.3 } }),
+  random: () => ({ type: "random" }),
+  roundRobin: () => ({ type: "roundRobin" }),
+};
+// spec: { name, desc, strategy, tiers:[[ {name, bundle:{main,helpers}} ]] }
+function buildXray(spec, tplIn) {
+  const tpl = tplIn || BUILTIN;
+  const tiers = (spec.tiers || []).filter((t) => t && t.length);
+  if (!tiers.length) throw new Error("в конфиге нет серверов");
+  const multi = tiers.length > 1 || tiers[0].length > 1;
+  const strat = STRATEGIES[spec.strategy] ? spec.strategy : "leastPing";
+  const outbounds = [];
+  const tagsByTier = [];
+  tiers.forEach((tier, ti) => {
+    const tags = [];
+    tier.forEach((srv, si) => {
+      const mainTag = `t${ti + 1}-${si + 1}`;
+      const map = new Map();
+      if (srv.bundle.main.tag) map.set(srv.bundle.main.tag, mainTag);
+      srv.bundle.helpers.forEach((h, k) => { if (h.tag) map.set(h.tag, `h${k + 1}-${mainTag}`); });
+      const one = (o, newTag) => {
+        const c = clone(o);
+        c.tag = newTag;
+        const sk = c.streamSettings && c.streamSettings.sockopt;
+        if (sk && map.has(sk.dialerProxy)) sk.dialerProxy = map.get(sk.dialerProxy);
+        if (c.proxySettings && map.has(c.proxySettings.tag)) c.proxySettings.tag = map.get(c.proxySettings.tag);
+        return c;
+      };
+      outbounds.push(one(srv.bundle.main, mainTag));
+      srv.bundle.helpers.forEach((h, k) => outbounds.push(one(h, `h${k + 1}-${mainTag}`)));
+      tags.push(mainTag);
+    });
+    tagsByTier.push(tags);
+  });
+  outbounds.push(...clone(tpl.service));
+  const inbounds = clone(tpl.inbounds && tpl.inbounds.length ? tpl.inbounds : BUILTIN.inbounds);
+  const rules = [];
+  const balancers = [];
+  if (multi) {
+    const used = new Set(inbounds.map((i) => i.port));
+    tiers.forEach((_, ti) => {
+      const n = ti + 1;
+      const last = ti === tiers.length - 1;
+      balancers.push({ tag: `b-t${n}`, selector: [`t${n}-`], strategy: STRATEGIES[strat](), fallbackTag: last ? tagsByTier[ti][0] : `to-t${n + 1}` });
+      if (n >= 2) {
+        let port = 10829 + n;
+        while (used.has(port)) port++;
+        used.add(port);
+        inbounds.push({ tag: `in-t${n}`, port, listen: "127.0.0.1", protocol: "dokodemo-door", settings: { network: "tcp,udp", followRedirect: true }, sniffing: { enabled: true, routeOnly: true, destOverride: ["http", "tls", "quic"] } });
+        outbounds.push({ tag: `to-t${n}`, protocol: "loopback", settings: { inboundTag: `in-t${n}` } });
+        rules.push({ type: "field", inboundTag: [`in-t${n}`], balancerTag: `b-t${n}` });
+      }
+    });
+  }
+  rules.push(...clone(tpl.rules || []));
+  rules.push(multi ? { type: "field", network: "tcp,udp", balancerTag: "b-t1" } : { type: "field", network: "tcp,udp", outboundTag: tagsByTier[0][0] });
+  const cfg = { remarks: spec.name, log: { loglevel: "warning" }, dns: clone(tpl.dns || BUILTIN.dns), inbounds, outbounds, routing: { ...clone(tpl.routing || BUILTIN.routing), rules } };
+  if (balancers.length) cfg.routing.balancers = balancers;
+  if (multi && (strat === "leastPing" || strat === "leastLoad")) {
+    cfg.burstObservatory = { subjectSelector: tiers.map((_, ti) => `t${ti + 1}-`), pingConfig: { destination: "https://www.gstatic.com/generate_204", interval: tiers.reduce((a, t) => a + t.length, 0) > 40 ? "10m" : "5m", sampling: 1, timeout: "5s", connectivity: "" } };
+  }
+  return cfg;
+}
+// Проверка ссылок между тегами: конфиг с ошибкой не сохраняется
+function validateXray(cfg) {
+  const problems = [];
+  const tags = new Map();
+  for (const o of cfg.outbounds || []) { if (o.tag) { if (tags.has(o.tag)) problems.push(`тег ${o.tag} повторяется`); tags.set(o.tag, o); } }
+  const inb = new Set((cfg.inbounds || []).map((i) => i.tag));
+  const ports = (cfg.inbounds || []).map((i) => i.port);
+  if (new Set(ports).size !== ports.length) problems.push("порты входящих повторяются");
+  const r = cfg.routing || {};
+  const bt = new Set((r.balancers || []).map((b) => b.tag));
+  for (const b of r.balancers || []) {
+    const members = [...tags.keys()].filter((t) => (b.selector || []).some((p) => t.startsWith(p)));
+    if (!members.length) problems.push(`балансировщик ${b.tag}: нет серверов`);
+    if (b.fallbackTag && !tags.has(b.fallbackTag)) problems.push(`балансировщик ${b.tag}: нет запасного ${b.fallbackTag}`);
+    for (const t of members) if (SERVICE.includes(tags.get(t).protocol)) problems.push(`в балансировщике ${b.tag} служебный ${t}`);
+  }
+  for (const ru of r.rules || []) {
+    if (ru.balancerTag && !bt.has(ru.balancerTag)) problems.push(`правило ссылается на несуществующий балансировщик ${ru.balancerTag}`);
+    if (ru.outboundTag && !tags.has(ru.outboundTag)) problems.push(`правило ссылается на несуществующий ${ru.outboundTag}`);
+    for (const t of ru.inboundTag || []) if (!inb.has(t)) problems.push(`правило ссылается на несуществующий вход ${t}`);
+  }
+  for (const o of cfg.outbounds || []) {
+    if (o.protocol === "loopback" && !inb.has(o.settings && o.settings.inboundTag)) problems.push(`loopback ${o.tag}: нет входа`);
+    const d = o.streamSettings && o.streamSettings.sockopt && o.streamSettings.sockopt.dialerProxy;
+    if (d && !tags.has(d)) problems.push(`${o.tag}: нет dialerProxy ${d}`);
+  }
+  return problems;
+}
+
+// Собирает конфиг по правилам. Возвращает { cfg, names } или null, если серверов нет
+function buildConfig(spec, loaded, tpl) {
+  if (spec.mode === "asis") {
+    for (const t of spec.tiers || []) {
+      const it = collectItems(t, loaded).find((x) => x.full);
+      if (it) { const cfg = clone(it.full); cfg.remarks = spec.name; return { cfg, names: [it.name] }; }
+    }
+    return null;
+  }
+  let tiers = (spec.tiers || []).map((t) => collectServers(t, loaded)).filter((t) => t.length);
+  if (!tiers.length) return null;
+  if (spec.mode === "single") tiers = [[tiers[0][0]]];
+  const cfg = buildXray({ name: spec.name, strategy: spec.strategy, tiers: tiers.map((t) => t.map((b) => ({ name: b.name, bundle: b }))) }, tpl);
+  return { cfg, names: tiers.flat().map((b) => b.name) };
+}
+const depsOf = (spec, all) => { const s = new Set(); if (spec.type === "all" || spec.type === "cluster") { if (!spec.src || spec.src === "*") all.forEach((x) => s.add(x)); else s.add(spec.src); return s; } for (const t of spec.tiers || []) for (const r of t.rules || []) { if (!r.src || r.src === "*") all.forEach((x) => s.add(x)); else s.add(r.src); } return s; };
+
+// ---------- кластеры: страны, метки, слияние в автоподбор ----------
+const FLAG_RE = /^\s*([\u{1F1E6}-\u{1F1FF}]{2})\s*/u;
+// слова-пометки, которыми заканчивается название страны («Россия БС», «Германия VIP»)
+const STOP_WORDS = new Set(["бс", "lte", "pro", "vip", "белый", "белые", "белых", "список", "списки", "списков", "обход", "wifi", "game", "youtube", "ютуб", "reality", "ws", "grpc", "xhttp"]);
+// «🇷🇺 Россия • Москва • Белый список #36 ▶️» → { flag: "🇷🇺", country: "Россия" }
+function countryOf(name) {
+  const m = FLAG_RE.exec(String(name));
+  if (!m) return null;
+  const words = [];
+  for (const tok of String(name).slice(m[0].length).split(/\s+/)) {
+    const punct = /[,.;:]$/.test(tok);
+    const t = tok.replace(/[,.;:]+$/, "");
+    if (!/^[A-Za-zА-Яа-яЁё]+(?:-[A-Za-zА-Яа-яЁё]+)*$/.test(t) || STOP_WORDS.has(canon(t))) break;
+    words.push(t);
+    if (punct) break;
+  }
+  if (!words.length) return null;
+  const country = words.join(" ");
+  return { flag: m[1], country, key: m[1] + canon(country) };
+}
+// filter: { any:[фразы], none:[фразы], plain:true }. plain — в названии нет значков, кроме флага и 🟢
+function clusterMatch(name, f) {
+  const n = canon(name);
+  if ((f.none || []).some((p) => phraseMatch(n, p))) return false;
+  if (f.plain && /\p{Extended_Pictographic}/u.test(n.replace(/[\u{1F1E6}-\u{1F1FF}]/gu, "").replace(/\u{1F7E2}/gu, ""))) return false;
+  if ((f.any || []).length && !f.any.some((p) => phraseMatch(n, p))) return false;
+  return true;
+}
+const headerItem = (entry) => ({ name: entry.title || entry.name, cfg: stubConfig(entry.title || entry.name, entry.desc || ""), names: [], kind: "header" });
+function produce(entry, loaded, tpl) {
+  const type = entry.type || "rules";
+  if (type === "rules") {
+    const built = buildConfig(entry, loaded, tpl);
+    if (!built) return null;
+    if (entry.desc) built.cfg.meta = { ...(built.cfg.meta || {}), serverDescription: entry.desc };
+    return [{ name: entry.name, cfg: built.cfg, names: built.names, kind: "rules" }];
+  }
+  if (type === "all") {
+    let servers = dedupe(loaded.flatMap((s) => (!entry.src || entry.src === "*" || entry.src === s.id ? s.items : []).flatMap((it) => it.bundles.map((b) => ({ ...b, name: it.name })))));
+    if (entry.limit) servers = servers.slice(0, entry.limit);
+    if (!servers.length) return null;
+    const cfg = buildXray({ name: entry.name, strategy: entry.strategy || "leastPing", tiers: [servers.map((b) => ({ name: b.name, bundle: b }))] }, tpl);
+    if (entry.desc) cfg.meta = { serverDescription: entry.desc };
+    return [{ name: entry.name, cfg, names: servers.map((b) => b.name), kind: servers.length > 1 ? "auto" : "single" }];
+  }
+  if (type === "cluster") {
+    const groups = new Map();
+    for (const s of loaded) {
+      if (entry.src && entry.src !== "*" && entry.src !== s.id) continue;
+      for (const it of s.items) {
+        const c = countryOf(it.name);
+        if (!c || !clusterMatch(it.name, entry.filter || {})) continue;
+        let g = groups.get(c.key);
+        if (!g) groups.set(c.key, (g = { ...c, servers: [] }));
+        it.bundles.forEach((b) => g.servers.push({ ...b, name: it.name }));
+      }
+    }
+    const out = [];
+    const mark = entry.mark ? " " + entry.mark : "";
+    for (const g of [...groups.values()].sort((a, b) => a.country.localeCompare(b.country, "ru"))) {
+      const servers = dedupe(g.servers);
+      if (!servers.length) continue;
+      const name = `${g.flag} ${g.country}${mark}`;
+      const cfg = buildXray({ name, strategy: entry.strategy || "leastPing", tiers: [servers.map((b) => ({ name: b.name, bundle: b }))] }, tpl);
+      cfg.meta = { serverDescription: entry.title };
+      out.push({ name, cfg, names: servers.map((b) => b.name), kind: servers.length > 1 ? "auto" : "single" });
+    }
+    return out.length ? [headerItem(entry), ...out] : null;
+  }
+  return null;
+}
+
+// ---------- время ----------
+const fmtTime = (ms) => ms ? new Intl.DateTimeFormat("ru-RU", { timeZone: "Europe/Moscow", year: "numeric", month: "2-digit", day: "2-digit", hour: "2-digit", minute: "2-digit", second: "2-digit", hour12: false }).format(new Date(ms)) + " МСК" : "ещё не было";
+const ago = (ms) => { if (!ms) return ""; const m = Math.round((Date.now() - ms) / 60000); return m < 1 ? " (только что)" : m < 90 ? ` (${m} мин назад)` : ` (${(m / 60).toFixed(1)} ч назад)`; };
+
+// ---------- хранилище через GitHub и обновление ----------
+const META_KEY = KV_KEY + ":meta";
+const BODY_KEY = KV_KEY + ":body";
+const GH_META_PATH = META_KEY + ".json";
+const GH_BODY_PATH = BODY_KEY + ".json";
+const GH_STORE_PATH = KV_KEY + ".json";
+
+async function readMeta(env) {
+  if (!env.GITHUB_TOKEN || !env.GITHUB_OWNER || !env.GITHUB_REPO) return null;
+  try { return await ghGetJson(env, GH_META_PATH); } catch (_) { return null; }
+}
+async function readStore(env) {
+  if (!env.GITHUB_TOKEN || !env.GITHUB_OWNER || !env.GITHUB_REPO) return null;
+  try { return await ghGetJson(env, GH_STORE_PATH); } catch (_) { return null; }
+}
+async function writeStore(env, store) {
+  await ghPutFile(env, GH_STORE_PATH, JSON.stringify(store), "update subscription store");
+}
+async function writeMeta(env, meta) {
+  await ghPutFile(env, GH_META_PATH, JSON.stringify(meta), "update meta");
+}
+async function writeBody(env, body) {
+  await ghPutFile(env, GH_BODY_PATH, body, "update body");
+}
+async function deleteAll(env) {
+  for (const p of [GH_STORE_PATH, GH_META_PATH, GH_BODY_PATH]) {
+    try { await ghDeleteFile(env, p); } catch (_) {}
+  }
+}
+
+async function refresh(env) {
+  const started = Date.now();
+  const old = (await readStore(env)) || {};
+  const report = { version: VERSION, sources: {}, configs: {}, saved: false };
+  const loaded = await Promise.all(SPEC.sources.map(async (s) => {
+    try {
+      const r = await loadSource(s);
+      let nrm = 0;
+      if (SPEC.normalize && (SPEC.normalize === true || SPEC.normalize.includes(s.id))) for (const it of r.items) for (const b of it.bundles) if (normalizeBundle(b)) nrm++;
+      report.sources[s.id] = { name: s.name, ok: true, items: r.items.length, format: r.format, ua: r.ua, переведено_через_ссылки: nrm, names: r.items.slice(0, 40).map((i) => i.name) };
+      return { id: s.id, items: r.items, ok: true, info: { ok: true, items: r.items.length, format: r.format } };
+    } catch (e) {
+      const msg = String((e && e.message) || e).slice(0, 200);
+      report.sources[s.id] = { name: s.name, ok: false, error: msg, attempts: e && e.attempts };
+      return { id: s.id, items: [], ok: false, info: { ok: false, error: msg } };
+    }
+  }));
+  let tpl = old.tpl || null;
+  if (SPEC.template) {
+    const src = loaded.find((x) => x.id === SPEC.template.src);
+    const it = src && src.items.find((i) => i.full && (SPEC.template.first ? i.full.routing && (i.full.inbounds || []).length : canon(i.name) === canon(SPEC.template.name)));
+    if (it) { tpl = templateFrom(it.full); report.template = "из конфига: " + it.name; } else report.template = tpl ? "прошлый" : "встроенный (в источнике нет подходящего конфига)";
+  }
+  const store = { ...old, checkedAt: started, tpl, srcStatus: Object.fromEntries(loaded.map((x) => [x.id, x.info])) };
+  const okIds = new Set(loaded.filter((x) => x.ok).map((x) => x.id));
+  const allIds = SPEC.sources.map((s) => s.id);
+  const oldItems = old.items || [];
+  const items = [];
+  let changed = false;
+  SPEC.configs.forEach((entry, idx) => {
+    const label = entry.name || entry.title || "конфиг " + (idx + 1);
+    const prev = oldItems.filter((x) => x.e === idx);
+    try {
+      let made;
+      if (entry.type === "header") made = [headerItem(entry)];
+      else {
+        const missing = [...depsOf(entry, allIds)].filter((id) => !okIds.has(id));
+        if (missing.length && prev.length) { report.configs[label] = "источник недоступен, оставлена прошлая версия"; items.push(...prev); return; }
+        made = produce(entry, loaded.filter((x) => x.ok), tpl || BUILTIN);
+        if (!made || !made.length) { report.configs[label] = "подходящих серверов не найдено" + (prev.length ? ", оставлена прошлая версия" : ""); items.push(...prev); return; }
+      }
+      const bad = made.map((m) => [m.name, validateXray(m.cfg)]).filter((x) => x[1].length);
+      if (bad.length) { report.configs[label] = "не сохранён: " + bad.map((x) => x[0] + " (" + x[1].join("; ") + ")").join(", "); items.push(...prev); return; }
+      const at = Date.now();
+      items.push(...made.map((m) => ({ ...m, e: idx, at })));
+      report.configs[label] = `обновлён, конфигов: ${made.filter((m) => m.kind !== "header").length}`;
+      if (entry.type !== "header") changed = true;
+    } catch (e) { report.configs[label] = "ошибка: " + String((e && e.message) || e); items.push(...prev); }
+  });
+  store.items = items;
+  if (changed) store.updatedAt = Date.now();
+  if (env.GITHUB_TOKEN) {
+    try {
+      await writeStore(env, store);
+      if (items.length) await writeBody(env, JSON.stringify(items.map((x) => x.cfg)));
+      await writeMeta(env, { checkedAt: started, updatedAt: store.updatedAt || 0, count: items.length, complete: SPEC.configs.every((_, i) => items.some((x) => x.e === i)) });
+      report.saved = true;
+    } catch (e) { report.saved = false; report.storageError = String(e); }
+  }
+  report.итого = { конфигов_в_подписке: items.length, из_них_заголовков: items.filter((x) => x.kind === "header").length };
+  report.time = { "последнее обновление серверов": fmtTime(store.updatedAt) + ago(store.updatedAt), "эта проверка": fmtTime(started) + `, заняла ${((Date.now() - started) / 1000).toFixed(1)} с` };
+  return report;
+}
+
+// ---------- выдача подписки ----------
+const b64 = (s) => utf8b64(s);
+const USERS = SPEC.users;
+function expiryMs(user) {
+  if (!user.expires) return null;
+  const str = /^\d{4}-\d{2}-\d{2}$/.test(user.expires) ? `${user.expires}T23:59:59${TZ}` : user.expires;
+  const t = Date.parse(str);
+  return Number.isNaN(t) ? null : t;
+}
+const stubConfig = (remarks, desc) => ({ remarks, dns: BUILTIN.dns, inbounds: BUILTIN.inbounds, outbounds: [{ tag: "block", protocol: "blackhole" }], routing: { rules: [{ type: "field", network: "tcp,udp", outboundTag: "block" }] }, meta: desc ? { serverDescription: desc } : undefined });
+// Готовый текст подписки. Данные читаются из GitHub как текст, без разбора: так выдача быстрая даже для большой подписки.
+async function getBody(env, ctx) {
+  const meta = await readMeta(env);
+  const age = Date.now() - ((meta && meta.checkedAt) || 0);
+  const needs = !meta || age > REFRESH_EVERY_MS || (!meta.complete && age > (meta.updatedAt ? 30 * 60 * 1000 : 2 * 60 * 1000));
+  if (needs && env.GITHUB_TOKEN) {
+    // метка попытки ставится сразу, чтобы параллельные запросы не запускали сбор по нескольку раз
+    try { await writeMeta(env, { ...(meta || {}), checkedAt: Date.now() }); } catch (_) {}
+    ctx.waitUntil(refresh(env).catch(() => {}));
+  }
+  let body = null;
+  if (env.GITHUB_TOKEN) { try { body = await ghGetText(env, GH_BODY_PATH); } catch (_) {} }
+  return body || JSON.stringify([stubConfig("⏳ Подписка собирается, обновите её через минуту", SPEC.meta.support ? "Если не появилось — напишите: " + SPEC.meta.support : "")]);
+}
+
+// ---------- панель ----------
+const PANEL_HTML = "<!doctype html>\n<html lang=\"ru\" translate=\"no\">\n<head>\n<meta charset=\"utf-8\">\n<meta name=\"google\" content=\"notranslate\">\n<meta name=\"viewport\" content=\"width=device-width,initial-scale=1\">\n<title>Панель подписки</title>\n<style>\n:root{--bg:#f6f7f9;--card:#fff;--ink:#1c2230;--mute:#667085;--line:#e1e5ec;--acc:#1f6feb;--ok:#1b7f3b;--bad:#c62828;--warn:#a15c00;color-scheme:light}\n@media (prefers-color-scheme:dark){:root{--bg:#10131a;--card:#181d27;--ink:#e8ecf4;--mute:#97a1b3;--line:#2a3140;--acc:#6ea8ff;--ok:#7bd88f;--bad:#ff8a80;--warn:#ffc266;color-scheme:dark}}\n*{box-sizing:border-box}\nbody{margin:0;background:var(--bg);color:var(--ink);font:15px/1.45 system-ui,-apple-system,\"Segoe UI\",Roboto,sans-serif;padding:12px;max-width:760px;margin:0 auto}\nh1{font-size:1.2rem;margin:4px 0}\nh2{font-size:1rem;margin:0 0 8px}\n.mute{color:var(--mute);font-size:.85rem}\n.card{background:var(--card);border:1px solid var(--line);border-radius:12px;padding:12px;margin:10px 0}\nbutton{font:inherit;border:1px solid var(--line);background:var(--card);color:var(--ink);border-radius:10px;padding:10px 14px;cursor:pointer}\nbutton.pri{background:var(--acc);border-color:var(--acc);color:#fff;font-weight:600}\nbutton.sm{padding:4px 10px;font-size:.85rem}\nbutton:disabled{opacity:.55}\n.row{display:flex;gap:8px;flex-wrap:wrap;align-items:center;margin-top:10px}\n.item{padding:8px 0;border-top:1px solid var(--line)}\n.item:first-child{border-top:0}\n.nm{font-weight:600;word-break:break-word}\n.ok{color:var(--ok)}.bad{color:var(--bad)}.warn{color:var(--warn)}\ndetails summary{cursor:pointer;color:var(--acc);font-size:.85rem;margin-top:4px}\nol{margin:6px 0 0;padding-left:22px;font-size:.82rem;color:var(--mute);word-break:break-word}\npre{white-space:pre-wrap;word-break:break-all;font-size:.74rem;background:var(--bg);border:1px solid var(--line);border-radius:8px;padding:8px;max-height:360px;overflow:auto}\n#msg{margin-top:10px;font-size:.9rem;word-break:break-word}\n</style>\n</head>\n<body translate=\"no\">\n<h1>Панель подписки</h1>\n<div class=\"mute\" id=\"ver\"></div>\n\n<div class=\"card\">\n  <div id=\"last\"></div>\n  <div class=\"row\">\n    <button class=\"pri\" id=\"run\">🔄 Обновить сейчас</button>\n    <button id=\"reset\" class=\"sm\">Сбросить сохранённое и собрать заново</button>\n  </div>\n  <div id=\"msg\"></div>\n</div>\n\n<div class=\"card\"><h2>Конфиги</h2><div id=\"cfgs\"></div></div>\n<div class=\"card\"><h2>Источники</h2><div id=\"srcs\"></div></div>\n<div class=\"card\"><h2>Ссылки подписок</h2><div id=\"users\"></div></div>\n<details class=\"card\"><summary>Полный отчёт последнего запуска</summary><pre id=\"rep\">Пока не запускалось на этой странице.</pre></details>\n\n<script>\n\"use strict\";\nvar KEY = new URLSearchParams(location.search).get(\"key\") || \"\";\nvar $ = function (id) { return document.getElementById(id); };\nfunction q(extra) { return \"?key=\" + encodeURIComponent(KEY) + extra; }\nfunction h(tag, props) {\n  var e = document.createElement(tag);\n  var p = props || {};\n  Object.keys(p).forEach(function (k) {\n    if (k === \"text\") e.textContent = p[k];\n    else if (k === \"class\") e.className = p[k];\n    else if (k.indexOf(\"on\") === 0) e[k] = p[k];\n    else e.setAttribute(k, p[k]);\n  });\n  for (var i = 2; i < arguments.length; i++) {\n    var kids = [].concat(arguments[i]);\n    kids.forEach(function (c) { if (c != null && c !== false) e.append(c.nodeType ? c : document.createTextNode(String(c))); });\n  }\n  return e;\n}\nfunction copy(text, btn) {\n  var done = function () { var t = btn.textContent; btn.textContent = \"Скопировано ✓\"; setTimeout(function () { btn.textContent = t; }, 1500); };\n  if (navigator.clipboard && navigator.clipboard.writeText) navigator.clipboard.writeText(text).then(done, fallback); else fallback();\n  function fallback() { var ta = h(\"textarea\", { style: \"position:fixed;opacity:0\" }); ta.value = text; document.body.append(ta); ta.select(); try { document.execCommand(\"copy\"); done(); } catch (e) {} ta.remove(); }\n}\n\nfunction render(s) {\n  $(\"ver\").textContent = s.version;\n  $(\"last\").textContent = \"\";\n  var parts = [\n    h(\"div\", { class: s.updatedAt ? \"\" : \"warn\" }, h(\"strong\", { text: \"Последнее обновление серверов: \" }), s.updatedText),\n    h(\"div\", { class: \"mute\", text: \"Последняя проверка источников: \" + s.checkedText }),\n    h(\"div\", { class: \"mute\", text: \"Само обновляется раз в \" + s.everyHours + \" ч, когда кто-то открывает подписку. Кнопка ниже делает это сразу.\" })\n  ];\n  if (!s.kv) parts.push(h(\"div\", { class: \"bad\", text: \"⚠ Хранилище GitHub не настроено: проверьте GITHUB_TOKEN, GITHUB_OWNER, GITHUB_REPO.\" }));\n  parts.forEach(function (p) { $(\"last\").append(p); });\n\n  $(\"cfgs\").textContent = \"\";\n  s.cfgs.forEach(function (c) {\n    var det = null;\n    if (c.names && c.names.length) {\n      det = h(\"details\", null, h(\"summary\", { text: c.listTitle + \": \" + c.names.length }), h(\"ol\", null, c.names.map(function (n) { return h(\"li\", { text: n }); })));\n    }\n    $(\"cfgs\").append(h(\"div\", { class: \"item\" },\n      h(\"div\", { class: \"nm\" }, (c.has ? \"✅ \" : \"⚠️ \"), c.name),\n      h(\"div\", { class: \"mute\", text: c.has ? \"обновлён: \" + c.atText : \"пока запасной из файла\" }),\n      c.note ? h(\"div\", { class: \"mute\", text: c.note }) : null,\n      det));\n  });\n\n  $(\"srcs\").textContent = \"\";\n  s.sources.forEach(function (x) {\n    $(\"srcs\").append(h(\"div\", { class: \"item\" },\n      h(\"div\", { class: \"nm\" }, x.state === \"ok\" ? \"✅ \" : x.state === \"fail\" ? \"❌ \" : \"• \", x.label),\n      h(\"div\", { class: x.state === \"fail\" ? \"bad\" : \"mute\", text: x.info })));\n  });\n\n  $(\"users\").textContent = \"\";\n  s.users.forEach(function (u) {\n    var link = location.origin + \"/\" + u.token;\n    var flag = u.blocked ? \" · заблокирован\" : u.expired ? \" · срок истёк\" : \"\";\n    $(\"users\").append(h(\"div\", { class: \"item\" },\n      h(\"div\", { class: \"nm\", text: u.name }),\n      h(\"div\", { class: u.blocked || u.expired ? \"bad mute\" : \"mute\", text: \"до \" + u.expires + flag }),\n      h(\"div\", { class: \"row\" }, h(\"button\", { class: \"sm\", text: \"Копировать ссылку\", onclick: function (e) { copy(link, e.target); } }))));\n  });\n}\n\nfunction load() {\n  return fetch(q(\"&state=1\")).then(function (r) {\n    if (!r.ok) { $(\"last\").textContent = \"Нет доступа: неверный ключ в адресе (?key=…) или воркер без ADMIN_KEY.\"; throw new Error(\"no access\"); }\n    return r.json();\n  }).then(render);\n}\n\nvar timer = null;\nfunction run(reset) {\n  if (reset && !confirm(\"Удалить сохранённые данные и собрать всё заново? Подписка на это время отдаётся запасными серверами из файла.\")) return;\n  $(\"run\").disabled = true; $(\"reset\").disabled = true;\n  var t0 = Date.now();\n  var tick = function () { $(\"msg\").className = \"\"; $(\"msg\").textContent = \"⏳ Идёт обновление… \" + Math.round((Date.now() - t0) / 1000) + \" с\"; };\n  tick(); timer = setInterval(tick, 500);\n  fetch(q(\"&run=1&json=1\" + (reset ? \"&reset=1\" : \"\"))).then(function (r) { return r.json(); }).then(function (rep) {\n    clearInterval(timer);\n    $(\"rep\").textContent = JSON.stringify(rep, null, 2);\n    var problems = [];\n    Object.keys(rep.sources || {}).forEach(function (k) { var v = rep.sources[k]; if (v && v.error) problems.push(k + \": \" + v.error); });\n    Object.keys(rep.replace || {}).forEach(function (k) { var v = String(rep.replace[k]); if (/не найден|нет подходящ|нет данных|запасной конфиг|остаётся прежний|не полноцен/.test(v)) problems.push(k + \": \" + v); });\n    var sec = ((Date.now() - t0) / 1000).toFixed(1);\n    $(\"msg\").className = problems.length ? \"warn\" : \"ok\";\n    $(\"msg\").textContent = (problems.length ? \"Готово за \" + sec + \" с, но есть замечания:\\n- \" + problems.join(\"\\n- \") : \"✅ Готово за \" + sec + \" с. Всё обновилось.\");\n    $(\"msg\").style.whiteSpace = \"pre-wrap\";\n  }).catch(function (e) {\n    clearInterval(timer);\n    $(\"msg\").className = \"bad\"; $(\"msg\").textContent = \"❌ Не получилось: \" + e.message;\n  }).then(function () { $(\"run\").disabled = false; $(\"reset\").disabled = false; return load().catch(function () {}); });\n}\n$(\"run\").onclick = function () { run(false); };\n$(\"reset\").onclick = function () { run(true); };\nload().catch(function () {});\n</script>\n</body>\n</html>\n";
+function htmlPage(text) {
+  const esc = text.replace(/&/g, "&amp;").replace(/</g, "&lt;");
+  return new Response(`<!doctype html><html lang="ru" translate="no"><head><meta charset="utf-8"><meta name="google" content="notranslate"><meta name="viewport" content="width=device-width,initial-scale=1"><title>Подписка</title><style>body{font:13px/1.45 ui-monospace,monospace;padding:12px;white-space:pre-wrap;word-break:break-word}</style></head><body translate="no">${esc}</body></html>`, { headers: { "Content-Type": "text/html; charset=utf-8", "Cache-Control": "no-store" } });
+}
+const ruleText = (spec) => {
+  if (spec.type === "all") return "все серверы подписки в одном автоподборе";
+  if (spec.type === "header") return "пустой сервер-заголовок";
+  if (spec.type === "cluster") { const f = spec.filter || {}; return `кластер «${spec.title}»` + (spec.mark ? `, метка ${spec.mark}` : "") + (f.plain ? ", только обычные" : f.any && f.any.length ? ", значки/слова: " + f.any.join(" ") : ""); }
+  return (spec.tiers || []).map((t, i) => `уровень ${i + 1}: ` + (t.rules || []).map((r) => (r.names && r.names.length ? `выбрано вручную (${r.names.length})` : `слова: ${(r.include || []).join(", ")}` + ((r.exclude || []).length ? `; без: ${r.exclude.join(", ")}` : "")) + (r.src && r.src !== "*" ? ` · ${(SPEC.sources.find((s) => s.id === r.src) || {}).name || r.src}` : "")).join(" + ")).join(" → ");
+};
+async function panelState(env) {
+  const st = (await readStore(env)) || {};
+  const tx = (ms) => (ms ? fmtTime(ms) + ago(ms) : "ещё не было");
+  const items = st.items || [];
+  const cfgs = [];
+  SPEC.configs.forEach((entry, idx) => {
+    const mine = items.filter((x) => x.e === idx);
+    if (!mine.length) { cfgs.push({ name: entry.name || entry.title || "конфиг " + (idx + 1), has: false, atText: "ещё не собран", names: [], listTitle: "", note: ruleText(entry) }); return; }
+    for (const x of mine) cfgs.push({ name: (x.kind === "header" ? "📁 " : "") + x.name, has: true, at: x.at, atText: tx(x.at), names: x.kind === "header" ? [] : x.names, listTitle: "Серверов в конфиге", note: x.kind === "header" ? "заголовок кластера (пустой сервер)" : x.kind === "single" ? "один сервер" : "автоподбор из нескольких серверов" });
+  });
+  return {
+    version: VERSION, kv: !!(env.GITHUB_TOKEN && env.GITHUB_OWNER && env.GITHUB_REPO), everyHours: REFRESH_EVERY_MS / HOUR, updatedAt: st.updatedAt || 0, updatedText: tx(st.updatedAt), checkedText: tx(st.checkedAt), cfgs,
+    sources: SPEC.sources.map((s) => { const x = st.srcStatus && st.srcStatus[s.id]; return { label: s.name + (s.url ? "" : " (из текста)"), state: x ? (x.ok ? "ok" : "fail") : "none", info: x ? (x.ok ? `серверов/конфигов: ${x.items}, формат: ${x.format}` : x.error) : "ещё не проверялся" }; }),
+    users: Object.entries(USERS).map(([token, u]) => ({ name: u.name, token, expires: u.expires || "без срока", blocked: !!u.blocked, expired: expiryMs(u) !== null && expiryMs(u) < Date.now() })),
+  };
+}
+
+export default {
+  async scheduled(event, env, ctx) { ctx.waitUntil(refresh(env)); },
+
+  async fetch(request, env, ctx) {
+    const url = new URL(request.url);
+    const adminOk = () => !!env.ADMIN_KEY && url.searchParams.get("key") === env.ADMIN_KEY;
+    if (url.pathname === "/version") return new Response("worker " + VERSION, { headers: { "Content-Type": "text/plain; charset=utf-8", "Cache-Control": "no-store" } });
+    if (url.pathname === "/refresh" || url.pathname === "/panel") {
+      if (!adminOk()) return new Response("Not found", { status: 404 });
+      const sp = url.searchParams;
+      if (sp.get("state")) return new Response(JSON.stringify(await panelState(env)), { headers: { "Content-Type": "application/json; charset=utf-8", "Cache-Control": "no-store" } });
+      if (sp.get("run") || sp.get("json")) {
+        if (sp.get("reset")) { await deleteAll(env).catch(() => {}); }
+        const report = await refresh(env).catch((e) => ({ error: String(e) }));
+        const text = JSON.stringify(report, null, 2);
+        if (sp.get("json")) return new Response(text, { headers: { "Content-Type": "application/json; charset=utf-8", "Cache-Control": "no-store" } });
+        return htmlPage(text);
+      }
+      return new Response(PANEL_HTML, { headers: { "Content-Type": "text/html; charset=utf-8", "Cache-Control": "no-store" } });
+    }
+    if (url.pathname === "/status") {
+      if (!adminOk()) return new Response("Not found", { status: 404 });
+      const s = await panelState(env);
+      return htmlPage([`Версия: ${s.version}`, `Последнее обновление серверов: ${s.updatedText}`, `Последняя проверка источников: ${s.checkedText}`, `GitHub подключён: ${s.kv ? "да" : "НЕТ"}`, "", ...s.cfgs.slice(0, 80).map((c) => `${c.has ? "✅" : "⚠️"} ${c.name}: ${c.has ? c.atText : "ещё не собран"}`)].join("\n"));
+    }
+
+    // Ссылка подписки: https://<воркер>/<токен>
+    const token = url.pathname.split("/").filter(Boolean).pop() || "";
+    const user = Object.prototype.hasOwnProperty.call(USERS, token) ? USERS[token] : null;
+    if (!user) return new Response("Not found", { status: 404 });
+    if (user.blocked) return new Response("Access blocked", { status: 403 });
+    const exp = expiryMs(user);
+    const expired = exp !== null && Date.now() > exp;
+    const title = SPEC.meta.name || "VPN";
+    const ascii = /^[\x20-\x7e]*$/.test(title);
+    const headers = {
+      "Content-Type": "application/json; charset=utf-8",
+      "Cache-Control": "no-store",
+      "profile-title": ascii ? title : "base64:" + b64(title),
+      "content-disposition": `attachment; filename="subscription"; filename*=UTF-8''${encodeURIComponent(title)}`,
+      "profile-update-interval": String(SPEC.meta.updateHours || 6),
+    };
+    // Happ ждёт приставку «base64:» (иначе показывает закодированную строку) и не больше 200 символов
+    if (SPEC.meta.description) headers["announce"] = "base64:" + b64(String(SPEC.meta.description).slice(0, 200));
+    if (SPEC.meta.support) headers["support-url"] = encodeURI(SPEC.meta.support);
+    if (SPEC.meta.author) headers["profile-web-page-url"] = encodeURI(SPEC.meta.author);
+    if (exp !== null) headers["subscription-userinfo"] = `upload=0; download=0; total=0; expire=${Math.floor(exp / 1000)}`;
+    const body = expired ? JSON.stringify([stubConfig("⛔ Подписка истекла " + user.expires, SPEC.meta.support ? "Продлить: " + SPEC.meta.support : "")]) : await getBody(env, ctx);
+    return new Response(body, { status: 200, headers });
+  },
+};
